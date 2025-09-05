@@ -1,0 +1,314 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>D3plus Network — Country Filter</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+  html, body { height: 100%; margin: 0; }
+  body {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  #container {
+    display: flex;
+    flex-direction: row;
+    width: 95vw;
+    height: 90vh;
+  }
+
+  /* Левая колонка */
+  #sidebar {
+    width: 25%;
+    padding: 16px;
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    font-size: 14px;
+    box-sizing: border-box;
+  }
+
+  #description {
+    line-height: 1.4;
+    color: #333;
+  }
+
+  /* Правая колонка */
+  #viz {
+    flex-grow: 1;
+    width: 70%;
+    height: 100%;
+    margin-left: auto;
+  }
+
+  /* Darken edges */
+  #viz .d3plus-Links path {
+    stroke: #000 !important;
+    stroke-opacity: 0.9 !important;
+  }
+
+  #controls {
+    margin-bottom: 16px;
+    background: rgba(255,255,255,.95);
+    padding: 8px 12px;
+    border-radius: 10px;
+  }
+  #controls label { margin-right: 6px; }
+  #legend { margin-left: 8px; opacity: .75; }
+
+  #countrySelect {
+    padding: 6px 18px 6px 8px;
+    border: 1px solid #bbb;
+    border-radius: 6px;
+    background: #f8f8f8;
+    font-size: 14px;
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;;
+    color: #222;
+    outline: none;
+    appearance: none;
+    transition: border-color 0.2s;
+  }
+  #countrySelect:focus {
+    border-color: #888;
+    background: #fff;
+  }
+
+  /* Мобильная адаптация */
+  @media (max-width: 768px) {
+    #container {
+      flex-direction: column;   /* вместо row */
+      width: 100%;
+      height: auto;
+    }
+
+    #sidebar {
+      width: 100%;
+      height: auto;
+    }
+
+    #viz {
+      width: 100%;
+      height: 70vh;  /* чтобы график занимал место */
+      margin-left: 0;
+      margin-top: 16px;
+    }
+  }
+    /* Minimal Select2 overrides */
+    .select2-container .select2-selection--single {
+      height: 36px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      background: #fafafa;
+      display: flex;
+      align-items: center;
+      padding: 0 8px;
+      font-size: 14px;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      transition: border-color 0.2s, background 0.2s;
+    }
+    .select2-container .select2-selection--single:focus,
+    .select2-container--open .select2-selection--single {
+      border-color: #888;
+      background: #fff;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    .select2-dropdown {
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      font-size: 14px;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    .select2-results__option--highlighted {
+      background: #888 !important;
+      color: white;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+</style>
+
+  <script src="https://unpkg.com/d3"></script>
+  <script src="https://unpkg.com/d3plus@2"></script>
+
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+</head>
+<body>
+  <div id="container">
+    <div id="sidebar">
+      <h2>Country Similarity Space</h2>
+      <div id="controls">
+   
+        <select id="countrySelect">
+          <option value="">All</option>
+        </select><br>
+        
+      </div>
+      <div id="description">
+        <p>Grey = countries do not specialize in selected industries</p>
+        <p>The country similarity space, developed from industry-specific production data, represents countries as circles sized by production amounts.</p>
+        <p>Lines connect countries sharing industry specializations.</p>
+        <p>The model clusters similar countries and distances others, aiding in identifying complementary producers and international benchmarks.</p>
+        
+      </div>
+    </div>
+    <div id="viz"></div>
+  </div>
+
+
+
+
+  <script>
+  (async () => {
+  try {
+    const [graph, specText] = await Promise.all([
+      fetch("d3plus_network.json").then(r => r.json()),
+      fetch("spec_.csv").then(r => r.ok ? r.text() : "")
+    ]);
+
+    const rows = specText ? d3.csvParse(specText) : [];
+    const mcpMap = new Map();
+    const industrySet = new Set();
+
+    if (rows.length) {
+      for (const r of rows) {
+        const buyer = (r["buyer"] || "").trim();          // страна
+        const industry = (r["industry_buy"] || "").trim(); // индустрия
+        const vraw = r["m_cp"];
+        const v = (vraw === undefined || vraw === null || vraw === "") ? undefined : +vraw;
+        if (buyer && industry) {
+          // ключ теперь = `${buyer}|${industry}`
+          mcpMap.set(`${buyer}|${industry}`, v);
+          industrySet.add(industry); // селект будет по индустриям
+        }
+      }
+    } else {
+      $("#countrySelect").prop("disabled", true);
+      $("#legend").text("Load spec_.csv with [buyer, industry_buy, m_cp] to enable filter");
+      console.warn("spec_.csv missing or empty");
+    }
+
+    // заполняем селект индустриями
+    const industries = Array.from(industrySet).sort();
+    for (const i of industries) {
+      $("#countrySelect").append(new Option(i, i));
+    }
+
+    // Init Select2 AFTER adding options
+    $('#countrySelect').select2({
+      placeholder: "Select an industry",
+      allowClear: true,
+      width: '100%'
+    });
+
+    const nodes = graph.nodes || [];
+    const links = graph.links || [];
+
+    nodes.forEach(n => {
+      n.baseColor = n.color || "#999999"; // запасной цвет если color пустой
+    });
+
+// увеличиваем в 2 раза и задаём минимальный радиус 10
+    const nodeSize = d => (d.size ?  +d.size*2  : 10);
+
+    const edgeSize = d => (+d.weight || 1);
+
+    let selectedIndustry = "";
+
+    function nodeFill(d) {
+      if (selectedIndustry) {
+        const key = `${(d.id || "").toString().trim()}|${selectedIndustry}`;
+        const v = mcpMap.get(key);
+        if (v === 0) return "#B0B0B0";
+      }
+      return d.baseColor;
+    }
+
+    const formatNum = v => isNaN(v) ? "—" : Math.round(v).toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+    const formatECI = v => isNaN(v) ? "—" : (Math.round(+v * 100) / 100).toFixed(2);
+
+    const buildTooltip = d => {
+      const rows = [];
+      if (d.group != null) rows.push(["Group", d.group]);
+      if (d.total_country_prod != null) rows.push(["Production in mln$", formatNum(d.total_country_prod)]);
+      if (d.eci != null) rows.push(["Economic complexity", formatECI(d.eci)]);
+      if (d.eci != null) rows.push(["Economic complexity", formatECI(nodeSize (d) )]);
+      if (selectedIndustry) {
+        const key = `${(d.id || "").toString().trim()}|${selectedIndustry}`;
+        const v = mcpMap.get(key);
+        rows.push([`m_cp (${selectedIndustry})`, v == null ? "—" : v]);
+      }
+      return rows;
+    };
+
+
+    const network = new d3plus.Network()
+      .select("#viz")
+      .nodes(nodes)
+      .links(links)
+      .size(nodeSize)
+      .sizeMin(3)                 // минимальный радиус (по умолчанию ~5)
+      .sizeMax(23)     
+      .x("x")
+      .y("y")
+      .linkSize(edgeSize)
+      .linkSizeMin(8)
+      .linkSizeScale("linear")
+      
+      .shapeConfig({
+        // always use the ID as the node label
+       // label: d => d.id,
+
+        // // let the text shrink a bit if needed, and center it
+        // labelConfig: {
+        //   fontMin: 8,
+        //   fontMax: 8,
+        //   textAnchor: "middle",
+        //   fontColor: "#000",
+        //   verticalAlign: "middle"
+        // },
+
+        // expand the label's bounding box beyond the circle radius,
+        // so D3plus won't cull it for being "too big"
+        // labelBounds: d => {
+        //   const r = nodeSize(d);     // your existing size accessor
+        //   const pad = 10;            // extra room around the node
+        //   return { x: -r - pad, y: -r - pad, width: (r * 2) + pad * 2, height: (r * 2) + pad * 2 };
+        // },
+
+        fill: nodeFill,
+    
+        stroke: "#111",
+        strokeWidth: 1,
+        strokeOpacity: 1
+      })
+
+      .tooltipConfig({
+        title: d => d.label || d.id,
+        tbody: buildTooltip
+      })
+      .zoom(true)
+      .render();
+
+    // Handle industry change
+    $('#countrySelect').on('change', function() {
+      selectedIndustry = this.value;
+      network
+        .shapeConfig({ fill: nodeFill })
+        .tooltipConfig({
+          title: d => d.label || d.id,
+          tbody: buildTooltip
+        })
+        .render();
+    });
+
+  } catch (err) {
+    console.error(err);
+    document.getElementById("viz").innerHTML =
+      "<p style='padding:16px;font-family:sans-serif;color:#900'>Failed to load files. Serve over http(s) and ensure d3plus_network.json and spec_.csv are in the same folder.</p>";
+  }
+})();
+
+  </script>
+</body>
+</html>

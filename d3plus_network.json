@@ -1,0 +1,2037 @@
+{
+  "meta": {
+    "nodes_total": 74,
+    "edges_raw": 240,
+    "edges_after": 240,
+    "isolates": 0,
+    "id_col": "id",
+    "src_col": "source",
+    "tgt_col": "target",
+    "x_col": "x",
+    "y_col": "y",
+    "label_col": "label",
+    "weight_included": true,
+    "color_col": "color",
+    "size_col": "size",
+    "eci_col": "eci",
+    "total_country_prod_col": "total_country_prod"
+  },
+  "nodes": [
+    {
+      "id": "ARG",
+      "label": "Argentina",
+      "x": 320.0,
+      "y": 289.0,
+      "degree": 12,
+      "color": "#e5b983",
+      "size": 16.006723557373384,
+      "total_country_prod": 1050339.651523517,
+      "eci": -0.2388160935867559
+    },
+    {
+      "id": "BRA",
+      "label": "Brazil",
+      "x": 434.0,
+      "y": 283.0,
+      "degree": 7,
+      "color": "#e5b983",
+      "size": 22.18944121827464,
+      "total_country_prod": 3878871.977901761,
+      "eci": -0.8711489560913153
+    },
+    {
+      "id": "COL",
+      "label": "Colombia",
+      "x": 262.0,
+      "y": 515.0,
+      "degree": 9,
+      "color": "#e5b983",
+      "size": 14.781734905149374,
+      "total_country_prod": 763873.8101499003,
+      "eci": 0.20841613392938738
+    },
+    {
+      "id": "MAL",
+      "label": "Malaysia",
+      "x": 491.0,
+      "y": 360.0,
+      "degree": 7,
+      "color": "#e5b983",
+      "size": 15.827975336458818,
+      "total_country_prod": 1004202.8327076344,
+      "eci": -0.02905097018088655
+    },
+    {
+      "id": "SAU",
+      "label": "Saudi Arabia",
+      "x": 262.0,
+      "y": -236.0,
+      "degree": 3,
+      "color": "#e5b983",
+      "size": 18.34140199782556,
+      "total_country_prod": 1810715.007686128,
+      "eci": 0.24219498716674498
+    },
+    {
+      "id": "BGR",
+      "label": "Bulgaria",
+      "x": 176.0,
+      "y": 290.0,
+      "degree": 9,
+      "color": "#e5b983",
+      "size": 10.735861552489775,
+      "total_country_prod": 212553.1726528817,
+      "eci": -0.3865642188828525
+    },
+    {
+      "id": "EGY",
+      "label": "Egypt",
+      "x": 625.0,
+      "y": 255.0,
+      "degree": 12,
+      "color": "#e5b983",
+      "size": 13.924860668008382,
+      "total_country_prod": 601566.1850882624,
+      "eci": -1.3243550909408044
+    },
+    {
+      "id": "GEO",
+      "label": "Georgia",
+      "x": 269.0,
+      "y": 84.0,
+      "degree": 21,
+      "color": "#e5b983",
+      "size": 7.606391076782771,
+      "total_country_prod": 53559.262092269135,
+      "eci": -0.28656644299293454
+    },
+    {
+      "id": "GRC",
+      "label": "Greece",
+      "x": 201.0,
+      "y": 448.0,
+      "degree": 9,
+      "color": "#376c8a",
+      "size": 12.854613954207085,
+      "total_country_prod": 436873.9376004309,
+      "eci": 0.5327806465661105
+    },
+    {
+      "id": "KAZ",
+      "label": "Kazakhstan",
+      "x": 184.0,
+      "y": 370.0,
+      "degree": 4,
+      "color": "#e5b983",
+      "size": 12.927895889129134,
+      "total_country_prod": 446921.62234124023,
+      "eci": 0.17960098819147338
+    },
+    {
+      "id": "LTU",
+      "label": "Lithuania",
+      "x": 127.0,
+      "y": 360.0,
+      "degree": 11,
+      "color": "#376c8a",
+      "size": 10.00691929816403,
+      "total_country_prod": 160443.29491074538,
+      "eci": -0.012070014070104955
+    },
+    {
+      "id": "POL",
+      "label": "Poland",
+      "x": 373.0,
+      "y": 141.0,
+      "degree": 13,
+      "color": "#376c8a",
+      "size": 18.443838486067772,
+      "total_country_prod": 1851506.4287275518,
+      "eci": -0.7581194580535122
+    },
+    {
+      "id": "SPA",
+      "label": "Spain",
+      "x": 18.0,
+      "y": 248.0,
+      "degree": 17,
+      "color": "#376c8a",
+      "size": 21.159847982280517,
+      "total_country_prod": 3207525.781398579,
+      "eci": 0.6673783364858819
+    },
+    {
+      "id": "ARM",
+      "label": "Armenia",
+      "x": 98.0,
+      "y": -160.0,
+      "degree": 3,
+      "color": "#e5b983",
+      "size": 6.911995851288221,
+      "total_country_prod": 36520.259755351035,
+      "eci": 0.39346991153417943
+    },
+    {
+      "id": "UKG",
+      "label": "United Kingdom",
+      "x": -70.0,
+      "y": -211.0,
+      "degree": 7,
+      "color": "#376c8a",
+      "size": 25.3139265641114,
+      "total_country_prod": 6569889.212648176,
+      "eci": 1.0507833743664414
+    },
+    {
+      "id": "NZL",
+      "label": "New Zealand",
+      "x": -3.0,
+      "y": 4.0,
+      "degree": 10,
+      "color": "#376c8a",
+      "size": 13.318444264809015,
+      "total_country_prod": 503424.0661031565,
+      "eci": 0.6698876628897891
+    },
+    {
+      "id": "AUS",
+      "label": "Australia",
+      "x": 47.0,
+      "y": -294.0,
+      "degree": 3,
+      "color": "#376c8a",
+      "size": 21.365096800078465,
+      "total_country_prod": 3333799.2305749506,
+      "eci": 1.0081967244183117
+    },
+    {
+      "id": "CAN",
+      "label": "Canada",
+      "x": 221.0,
+      "y": -380.0,
+      "degree": 3,
+      "color": "#376c8a",
+      "size": 22.239495951726692,
+      "total_country_prod": 3913990.2762252865,
+      "eci": 0.4655757176595893
+    },
+    {
+      "id": "AUT",
+      "label": "Austria",
+      "x": -238.0,
+      "y": 45.0,
+      "degree": 11,
+      "color": "#376c8a",
+      "size": 16.210618643799023,
+      "total_country_prod": 1104888.2091648756,
+      "eci": 0.8721681390100907
+    },
+    {
+      "id": "FIN",
+      "label": "Finland",
+      "x": -362.0,
+      "y": 48.0,
+      "degree": 11,
+      "color": "#376c8a",
+      "size": 13.752420966625005,
+      "total_country_prod": 572316.9572133137,
+      "eci": 1.379399945466449
+    },
+    {
+      "id": "EST",
+      "label": "Estonia",
+      "x": -181.0,
+      "y": 426.0,
+      "degree": 5,
+      "color": "#376c8a",
+      "size": 8.521599274532756,
+      "total_country_prod": 84373.17921422017,
+      "eci": 0.5033333995751421
+    },
+    {
+      "id": "DEN",
+      "label": "Denmark",
+      "x": -358.0,
+      "y": 104.0,
+      "degree": 8,
+      "color": "#376c8a",
+      "size": 14.900551653850107,
+      "total_country_prod": 788731.8380254778,
+      "eci": 1.5501650493947035
+    },
+    {
+      "id": "FRA",
+      "label": "France",
+      "x": -181.0,
+      "y": 16.0,
+      "degree": 13,
+      "color": "#376c8a",
+      "size": 24.576905973186097,
+      "total_country_prod": 5837525.819301695,
+      "eci": 1.203541141552358
+    },
+    {
+      "id": "GER",
+      "label": "Germany",
+      "x": -383.0,
+      "y": 163.0,
+      "degree": 11,
+      "color": "#376c8a",
+      "size": 27.38548185101422,
+      "total_country_prod": 8999150.809125701,
+      "eci": 1.034370616205471
+    },
+    {
+      "id": "ITA",
+      "label": "Italy",
+      "x": -126.0,
+      "y": 281.0,
+      "degree": 12,
+      "color": "#376c8a",
+      "size": 23.202253759267375,
+      "total_country_prod": 4637038.180595081,
+      "eci": -0.0332562245768239
+    },
+    {
+      "id": "SVK",
+      "label": "Slovak Republic",
+      "x": -145.0,
+      "y": 238.0,
+      "degree": 13,
+      "color": "#376c8a",
+      "size": 11.74597082437132,
+      "total_country_prod": 304561.95651835116,
+      "eci": 0.27930860950303793
+    },
+    {
+      "id": "SVN",
+      "label": "Slovenia",
+      "x": -61.0,
+      "y": 140.0,
+      "degree": 9,
+      "color": "#376c8a",
+      "size": 9.64864498697606,
+      "total_country_prod": 138670.88638548317,
+      "eci": 0.19644986535584968
+    },
+    {
+      "id": "SWE",
+      "label": "Sweden",
+      "x": -281.0,
+      "y": -27.0,
+      "degree": 10,
+      "color": "#376c8a",
+      "size": 16.34125629126059,
+      "total_country_prod": 1140937.220417393,
+      "eci": 1.4012545447287932
+    },
+    {
+      "id": "BAN",
+      "label": "Bangladesh",
+      "x": 708.0,
+      "y": 136.0,
+      "degree": 12,
+      "color": "#e5b983",
+      "size": 14.492058740009,
+      "total_country_prod": 705732.8372918622,
+      "eci": -1.8096309615874808
+    },
+    {
+      "id": "LAO",
+      "label": "Laos",
+      "x": 925.0,
+      "y": -13.0,
+      "degree": 3,
+      "color": "#e5b983",
+      "size": 6.337689831249298,
+      "total_country_prod": 25813.322425329545,
+      "eci": -1.6361732621027858
+    },
+    {
+      "id": "HRV",
+      "label": "Croatia",
+      "x": 262.0,
+      "y": 225.0,
+      "degree": 14,
+      "color": "#e5b983",
+      "size": 9.978274146529877,
+      "total_country_prod": 158614.0701403608,
+      "eci": -0.11972965302980648
+    },
+    {
+      "id": "IND",
+      "label": "India",
+      "x": 724.0,
+      "y": 83.0,
+      "degree": 7,
+      "color": "#e5b983",
+      "size": 26.038638733669583,
+      "total_country_prod": 7355176.303131367,
+      "eci": -1.7601875367381719
+    },
+    {
+      "id": "PAK",
+      "label": "Pakistan",
+      "x": 984.0,
+      "y": 100.0,
+      "degree": 3,
+      "color": "#e5b983",
+      "size": 14.415395239176396,
+      "total_country_prod": 690917.5111078004,
+      "eci": -1.767875907722624
+    },
+    {
+      "id": "SRI",
+      "label": "Sri Lanka",
+      "x": 966.0,
+      "y": 197.0,
+      "degree": 2,
+      "color": "#e5b983",
+      "size": 10.105702149977136,
+      "total_country_prod": 166872.95570590973,
+      "eci": -1.1115007404083022
+    },
+    {
+      "id": "TAJ",
+      "label": "Tajikistan",
+      "x": 603.0,
+      "y": -18.0,
+      "degree": 11,
+      "color": "#e5b983",
+      "size": 6.241336673490146,
+      "total_country_prod": 24278.979212887723,
+      "eci": -1.4485198079088264
+    },
+    {
+      "id": "THA",
+      "label": "Thailand",
+      "x": 584.0,
+      "y": 269.0,
+      "degree": 5,
+      "color": "#e5b983",
+      "size": 16.290607058942086,
+      "total_country_prod": 1126857.646199667,
+      "eci": -1.5344946837179674
+    },
+    {
+      "id": "TUR",
+      "label": "Türkiye",
+      "x": 503.0,
+      "y": 77.0,
+      "degree": 14,
+      "color": "#e5b983",
+      "size": 19.960922935319346,
+      "total_country_prod": 2540051.103993684,
+      "eci": -0.9079076899838302
+    },
+    {
+      "id": "UZB",
+      "label": "Uzbekistan",
+      "x": 603.0,
+      "y": -72.0,
+      "degree": 7,
+      "color": "#e5b983",
+      "size": 10.863094383125405,
+      "total_country_prod": 222809.7514656903,
+      "eci": -1.7633582462650723
+    },
+    {
+      "id": "BEL",
+      "label": "Belgium",
+      "x": -309.0,
+      "y": -246.0,
+      "degree": 3,
+      "color": "#376c8a",
+      "size": 17.202930232465388,
+      "total_country_prod": 1401295.3949568362,
+      "eci": 1.197472429434688
+    },
+    {
+      "id": "NET",
+      "label": "Netherlands",
+      "x": -437.0,
+      "y": -91.0,
+      "degree": 6,
+      "color": "#376c8a",
+      "size": 20.00716588934625,
+      "total_country_prod": 2563670.9076551753,
+      "eci": 1.4593617761896474
+    },
+    {
+      "id": "LVA",
+      "label": "Latvia",
+      "x": 40.0,
+      "y": 381.0,
+      "degree": 9,
+      "color": "#376c8a",
+      "size": 8.469153690119509,
+      "total_country_prod": 82315.20025264917,
+      "eci": 0.04476438894254898
+    },
+    {
+      "id": "ROM",
+      "label": "Romania",
+      "x": -19.0,
+      "y": 327.0,
+      "degree": 7,
+      "color": "#e5b983",
+      "size": 14.52263569278315,
+      "total_country_prod": 711707.8478260869,
+      "eci": 0.044867311438295726
+    },
+    {
+      "id": "BHU",
+      "label": "Bhutan",
+      "x": 424.0,
+      "y": -279.0,
+      "degree": 5,
+      "color": "#e5b983",
+      "size": 4.1352446041430335,
+      "total_country_prod": 4678.695671614232,
+      "eci": -1.0625389554309093
+    },
+    {
+      "id": "KGZ",
+      "label": "Kyrgyz Republic",
+      "x": 489.0,
+      "y": -117.0,
+      "degree": 8,
+      "color": "#e5b983",
+      "size": 6.537598869191373,
+      "total_country_prod": 29227.593734012404,
+      "eci": -1.4141014761788826
+    },
+    {
+      "id": "NEP",
+      "label": "Nepal",
+      "x": 335.0,
+      "y": -61.0,
+      "degree": 7,
+      "color": "#e5b983",
+      "size": 7.995288783673743,
+      "total_country_prod": 65381.75917940642,
+      "eci": -0.7005549499176785
+    },
+    {
+      "id": "PHI",
+      "label": "Philippines",
+      "x": 415.0,
+      "y": -88.0,
+      "degree": 7,
+      "color": "#e5b983",
+      "size": 15.425922179046333,
+      "total_country_prod": 905992.3425611282,
+      "eci": -0.6708402252680044
+    },
+    {
+      "id": "BRU",
+      "label": "Brunei Darussalam",
+      "x": 293.0,
+      "y": -717.0,
+      "degree": 2,
+      "color": "#e5b983",
+      "size": 6.440220805775137,
+      "total_country_prod": 27524.72654618226,
+      "eci": 0.39169507909325657
+    },
+    {
+      "id": "KUW",
+      "label": "Kuwait",
+      "x": 284.0,
+      "y": -530.0,
+      "degree": 2,
+      "color": "#e5b983",
+      "size": 11.691390965714815,
+      "total_country_prod": 298940.4732676957,
+      "eci": 0.6599390997890464
+    },
+    {
+      "id": "HKG",
+      "label": "Hong Kong, China",
+      "x": 298.0,
+      "y": -870.0,
+      "degree": 1,
+      "color": "#e5b983",
+      "size": 14.754220065914017,
+      "total_country_prod": 758202.1474461682,
+      "eci": 1.5473248442053937
+    },
+    {
+      "id": "CAM",
+      "label": "Cambodia",
+      "x": 566.0,
+      "y": -42.0,
+      "degree": 4,
+      "color": "#e5b983",
+      "size": 8.803244737027555,
+      "total_country_prod": 96092.85252491228,
+      "eci": -1.2777511885597457
+    },
+    {
+      "id": "VIE",
+      "label": "Viet Nam",
+      "x": 720.0,
+      "y": -86.0,
+      "degree": 4,
+      "color": "#e5b983",
+      "size": 16.75977481638575,
+      "total_country_prod": 1262387.540065824,
+      "eci": -1.6885267510354818
+    },
+    {
+      "id": "INO",
+      "label": "Indonesia",
+      "x": 677.0,
+      "y": 280.0,
+      "degree": 5,
+      "color": "#e5b983",
+      "size": 19.95789066778941,
+      "total_country_prod": 2538508.01710432,
+      "eci": -1.030444984338842
+    },
+    {
+      "id": "ECU",
+      "label": "Ecuador",
+      "x": 540.0,
+      "y": 485.0,
+      "degree": 5,
+      "color": "#e5b983",
+      "size": 10.82836932540113,
+      "total_country_prod": 219974.44079714498,
+      "eci": -0.11018231172879049
+    },
+    {
+      "id": "MON",
+      "label": "Mongolia",
+      "x": -11.0,
+      "y": 620.0,
+      "degree": 3,
+      "color": "#e5b983",
+      "size": 7.6758027396723625,
+      "total_country_prod": 55541.19297579025,
+      "eci": -0.5231640107360764
+    },
+    {
+      "id": "NOR",
+      "label": "Norway",
+      "x": 454.0,
+      "y": 569.0,
+      "degree": 3,
+      "color": "#376c8a",
+      "size": 14.958600666346735,
+      "total_country_prod": 801094.6962058189,
+      "eci": 0.5220921684710259
+    },
+    {
+      "id": "RUS",
+      "label": "Russia",
+      "x": 94.0,
+      "y": 599.0,
+      "degree": 5,
+      "color": "#e5b983",
+      "size": 22.523062484474817,
+      "total_country_prod": 4117463.4181303727,
+      "eci": 0.18930195546074668
+    },
+    {
+      "id": "CYP",
+      "label": "Cyprus",
+      "x": -911.0,
+      "y": 101.0,
+      "degree": 2,
+      "color": "#e5b983",
+      "size": 8.386749572317528,
+      "total_country_prod": 79157.97642951438,
+      "eci": 1.2306891945495468
+    },
+    {
+      "id": "MLT",
+      "label": "Malta",
+      "x": -717.0,
+      "y": 24.0,
+      "degree": 3,
+      "color": "#e5b983",
+      "size": 7.81915143554633,
+      "total_country_prod": 59807.88985458024,
+      "eci": 1.5056577064079912
+    },
+    {
+      "id": "SIN",
+      "label": "Singapore",
+      "x": -1074.0,
+      "y": 158.0,
+      "degree": 2,
+      "color": "#e5b983",
+      "size": 17.408080559835938,
+      "total_country_prod": 1469344.1693187393,
+      "eci": 1.8499796292884394
+    },
+    {
+      "id": "CZE",
+      "label": "Czech Republic",
+      "x": -340.0,
+      "y": 325.0,
+      "degree": 4,
+      "color": "#376c8a",
+      "size": 14.875681898039941,
+      "total_country_prod": 783479.2771109157,
+      "eci": -0.2055378895177402
+    },
+    {
+      "id": "HUN",
+      "label": "Hungary",
+      "x": -35.0,
+      "y": 76.0,
+      "degree": 10,
+      "color": "#376c8a",
+      "size": 12.82356706797991,
+      "total_country_prod": 432668.5944395118,
+      "eci": 0.30007615068085924
+    },
+    {
+      "id": "JPN",
+      "label": "Japan",
+      "x": -268.0,
+      "y": 291.0,
+      "degree": 7,
+      "color": "#376c8a",
+      "size": 26.4442404026372,
+      "total_country_prod": 7824279.738806662,
+      "eci": 0.3771654916171978
+    },
+    {
+      "id": "FIJ",
+      "label": "Fiji",
+      "x": 385.0,
+      "y": 376.0,
+      "degree": 5,
+      "color": "#e5b983",
+      "size": 4.913469674450294,
+      "total_country_prod": 9325.520959395973,
+      "eci": 0.28488783590791517
+    },
+    {
+      "id": "MLD",
+      "label": "Maldives",
+      "x": 332.0,
+      "y": 639.0,
+      "degree": 2,
+      "color": "#e5b983",
+      "size": 5.234045987788939,
+      "total_country_prod": 12007.984517244813,
+      "eci": 0.47316529996325424
+    },
+    {
+      "id": "POR",
+      "label": "Portugal",
+      "x": 115.0,
+      "y": 110.0,
+      "degree": 5,
+      "color": "#376c8a",
+      "size": 13.725127393016152,
+      "total_country_prod": 567787.0974137089,
+      "eci": -0.175321735668243
+    },
+    {
+      "id": "PRC",
+      "label": "China",
+      "x": 777.0,
+      "y": -66.0,
+      "degree": 3,
+      "color": "#e5b983",
+      "size": 42.05423151998562,
+      "total_country_prod": 50044780.389926866,
+      "eci": -1.3502152750063272
+    },
+    {
+      "id": "IRE",
+      "label": "Ireland",
+      "x": -851.0,
+      "y": -100.0,
+      "degree": 2,
+      "color": "#376c8a",
+      "size": 16.28037601460622,
+      "total_country_prod": 1124029.4951763693,
+      "eci": 0.9967184714903813
+    },
+    {
+      "id": "LUX",
+      "label": "Luxembourg",
+      "x": -963.0,
+      "y": -203.0,
+      "degree": 1,
+      "color": "#376c8a",
+      "size": 11.972892759147697,
+      "total_country_prod": 328788.2986407689,
+      "eci": 0.1409734330280253
+    },
+    {
+      "id": "KOR",
+      "label": "South Korea",
+      "x": 800.0,
+      "y": 300.0,
+      "degree": 2,
+      "color": "#376c8a",
+      "size": 23.399249454334672,
+      "total_country_prod": 4796535.820358969,
+      "eci": -0.10226291247509633
+    },
+    {
+      "id": "TAP",
+      "label": "Taipei, China",
+      "x": 958.0,
+      "y": 417.0,
+      "degree": 1,
+      "color": "#e5b983",
+      "size": 17.78756941855348,
+      "total_country_prod": 1601719.3219910963,
+      "eci": 0.3871175118380512
+    },
+    {
+      "id": "MEX",
+      "label": "Mexico",
+      "x": 751.0,
+      "y": -250.0,
+      "degree": 1,
+      "color": "#e5b983",
+      "size": 21.00112961991558,
+      "total_country_prod": 3112365.584266861,
+      "eci": -0.7947310522690648
+    },
+    {
+      "id": "UAE",
+      "label": "United Arab Emirates",
+      "x": 51.0,
+      "y": 807.0,
+      "degree": 1,
+      "color": "#e5b983",
+      "size": 15.753339808867404,
+      "total_country_prod": 985395.4373544755,
+      "eci": -0.38912582165309917
+    },
+    {
+      "id": "SWI",
+      "label": "Switzerland",
+      "x": -1210.0,
+      "y": 208.0,
+      "degree": 1,
+      "color": "#376c8a",
+      "size": 19.10833105730592,
+      "total_country_prod": 2133098.9919317258,
+      "eci": 1.7211233287386507
+    },
+    {
+      "id": "USA",
+      "label": "United States",
+      "x": -132.0,
+      "y": -409.0,
+      "degree": 1,
+      "color": "#376c8a",
+      "size": 42.0026778198526,
+      "total_country_prod": 49799834.4506732,
+      "eci": 1.609004268058327
+    }
+  ],
+  "links": [
+    {
+      "source": "ARG",
+      "target": "BGR",
+      "weight": 1.0
+    },
+    {
+      "source": "ARG",
+      "target": "BRA",
+      "weight": 1.0
+    },
+    {
+      "source": "ARG",
+      "target": "COL",
+      "weight": 1.0
+    },
+    {
+      "source": "ARG",
+      "target": "EGY",
+      "weight": 1.0
+    },
+    {
+      "source": "ARG",
+      "target": "GEO",
+      "weight": 1.0
+    },
+    {
+      "source": "ARG",
+      "target": "GRC",
+      "weight": 1.0
+    },
+    {
+      "source": "ARG",
+      "target": "KAZ",
+      "weight": 1.0
+    },
+    {
+      "source": "ARG",
+      "target": "LTU",
+      "weight": 1.0
+    },
+    {
+      "source": "ARG",
+      "target": "MAL",
+      "weight": 1.0
+    },
+    {
+      "source": "ARG",
+      "target": "POL",
+      "weight": 1.0
+    },
+    {
+      "source": "ARG",
+      "target": "SAU",
+      "weight": 1.0
+    },
+    {
+      "source": "ARG",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "ARM",
+      "target": "GEO",
+      "weight": 1.0
+    },
+    {
+      "source": "ARM",
+      "target": "NZL",
+      "weight": 1.0
+    },
+    {
+      "source": "ARM",
+      "target": "UKG",
+      "weight": 1.0
+    },
+    {
+      "source": "AUS",
+      "target": "CAN",
+      "weight": 1.0
+    },
+    {
+      "source": "AUS",
+      "target": "NZL",
+      "weight": 1.0
+    },
+    {
+      "source": "AUS",
+      "target": "UKG",
+      "weight": 1.0
+    },
+    {
+      "source": "AUT",
+      "target": "DEN",
+      "weight": 1.0
+    },
+    {
+      "source": "AUT",
+      "target": "EST",
+      "weight": 1.0
+    },
+    {
+      "source": "AUT",
+      "target": "FIN",
+      "weight": 1.0
+    },
+    {
+      "source": "AUT",
+      "target": "FRA",
+      "weight": 1.0
+    },
+    {
+      "source": "AUT",
+      "target": "GER",
+      "weight": 1.0
+    },
+    {
+      "source": "AUT",
+      "target": "ITA",
+      "weight": 1.0
+    },
+    {
+      "source": "AUT",
+      "target": "NZL",
+      "weight": 1.0
+    },
+    {
+      "source": "AUT",
+      "target": "SVK",
+      "weight": 1.0
+    },
+    {
+      "source": "AUT",
+      "target": "SVN",
+      "weight": 1.0
+    },
+    {
+      "source": "AUT",
+      "target": "SWE",
+      "weight": 1.0
+    },
+    {
+      "source": "AUT",
+      "target": "UKG",
+      "weight": 1.0
+    },
+    {
+      "source": "BAN",
+      "target": "BRA",
+      "weight": 1.0
+    },
+    {
+      "source": "BAN",
+      "target": "EGY",
+      "weight": 1.0
+    },
+    {
+      "source": "BAN",
+      "target": "GEO",
+      "weight": 1.0
+    },
+    {
+      "source": "BAN",
+      "target": "HRV",
+      "weight": 1.0
+    },
+    {
+      "source": "BAN",
+      "target": "IND",
+      "weight": 1.0
+    },
+    {
+      "source": "BAN",
+      "target": "LAO",
+      "weight": 1.0
+    },
+    {
+      "source": "BAN",
+      "target": "PAK",
+      "weight": 1.0
+    },
+    {
+      "source": "BAN",
+      "target": "SRI",
+      "weight": 1.0
+    },
+    {
+      "source": "BAN",
+      "target": "TAJ",
+      "weight": 1.0
+    },
+    {
+      "source": "BAN",
+      "target": "THA",
+      "weight": 1.0
+    },
+    {
+      "source": "BAN",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "BAN",
+      "target": "UZB",
+      "weight": 1.0
+    },
+    {
+      "source": "BEL",
+      "target": "NET",
+      "weight": 1.0
+    },
+    {
+      "source": "BEL",
+      "target": "SWE",
+      "weight": 1.0
+    },
+    {
+      "source": "BEL",
+      "target": "UKG",
+      "weight": 1.0
+    },
+    {
+      "source": "BGR",
+      "target": "GEO",
+      "weight": 1.0
+    },
+    {
+      "source": "BGR",
+      "target": "LTU",
+      "weight": 1.0
+    },
+    {
+      "source": "BGR",
+      "target": "LVA",
+      "weight": 1.0
+    },
+    {
+      "source": "BGR",
+      "target": "POL",
+      "weight": 1.0
+    },
+    {
+      "source": "BGR",
+      "target": "ROM",
+      "weight": 1.0
+    },
+    {
+      "source": "BGR",
+      "target": "SVK",
+      "weight": 1.0
+    },
+    {
+      "source": "BGR",
+      "target": "SVN",
+      "weight": 1.0
+    },
+    {
+      "source": "BGR",
+      "target": "THA",
+      "weight": 1.0
+    },
+    {
+      "source": "BHU",
+      "target": "CAN",
+      "weight": 1.0
+    },
+    {
+      "source": "BHU",
+      "target": "KGZ",
+      "weight": 1.0
+    },
+    {
+      "source": "BHU",
+      "target": "NEP",
+      "weight": 1.0
+    },
+    {
+      "source": "BHU",
+      "target": "PHI",
+      "weight": 1.0
+    },
+    {
+      "source": "BHU",
+      "target": "TAJ",
+      "weight": 1.0
+    },
+    {
+      "source": "BRA",
+      "target": "EGY",
+      "weight": 1.0
+    },
+    {
+      "source": "BRA",
+      "target": "ITA",
+      "weight": 1.0
+    },
+    {
+      "source": "BRA",
+      "target": "LTU",
+      "weight": 1.0
+    },
+    {
+      "source": "BRA",
+      "target": "MAL",
+      "weight": 1.0
+    },
+    {
+      "source": "BRA",
+      "target": "TAJ",
+      "weight": 1.0
+    },
+    {
+      "source": "BRU",
+      "target": "HKG",
+      "weight": 1.0
+    },
+    {
+      "source": "BRU",
+      "target": "KUW",
+      "weight": 1.0
+    },
+    {
+      "source": "CAM",
+      "target": "INO",
+      "weight": 1.0
+    },
+    {
+      "source": "CAM",
+      "target": "NEP",
+      "weight": 1.0
+    },
+    {
+      "source": "CAM",
+      "target": "POL",
+      "weight": 1.0
+    },
+    {
+      "source": "CAM",
+      "target": "VIE",
+      "weight": 1.0
+    },
+    {
+      "source": "CAN",
+      "target": "SAU",
+      "weight": 1.0
+    },
+    {
+      "source": "COL",
+      "target": "ECU",
+      "weight": 1.0
+    },
+    {
+      "source": "COL",
+      "target": "GEO",
+      "weight": 1.0
+    },
+    {
+      "source": "COL",
+      "target": "GRC",
+      "weight": 1.0
+    },
+    {
+      "source": "COL",
+      "target": "HRV",
+      "weight": 1.0
+    },
+    {
+      "source": "COL",
+      "target": "MON",
+      "weight": 1.0
+    },
+    {
+      "source": "COL",
+      "target": "NOR",
+      "weight": 1.0
+    },
+    {
+      "source": "COL",
+      "target": "RUS",
+      "weight": 1.0
+    },
+    {
+      "source": "COL",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "CYP",
+      "target": "MLT",
+      "weight": 1.0
+    },
+    {
+      "source": "CYP",
+      "target": "SIN",
+      "weight": 1.0
+    },
+    {
+      "source": "CZE",
+      "target": "GER",
+      "weight": 1.0
+    },
+    {
+      "source": "CZE",
+      "target": "HUN",
+      "weight": 1.0
+    },
+    {
+      "source": "CZE",
+      "target": "JPN",
+      "weight": 1.0
+    },
+    {
+      "source": "CZE",
+      "target": "SVK",
+      "weight": 1.0
+    },
+    {
+      "source": "DEN",
+      "target": "FIN",
+      "weight": 1.0
+    },
+    {
+      "source": "DEN",
+      "target": "FRA",
+      "weight": 1.0
+    },
+    {
+      "source": "DEN",
+      "target": "GER",
+      "weight": 1.0
+    },
+    {
+      "source": "DEN",
+      "target": "ITA",
+      "weight": 1.0
+    },
+    {
+      "source": "DEN",
+      "target": "NET",
+      "weight": 1.0
+    },
+    {
+      "source": "DEN",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "DEN",
+      "target": "SWE",
+      "weight": 1.0
+    },
+    {
+      "source": "ECU",
+      "target": "EGY",
+      "weight": 1.0
+    },
+    {
+      "source": "ECU",
+      "target": "HRV",
+      "weight": 1.0
+    },
+    {
+      "source": "ECU",
+      "target": "INO",
+      "weight": 1.0
+    },
+    {
+      "source": "ECU",
+      "target": "NOR",
+      "weight": 1.0
+    },
+    {
+      "source": "EGY",
+      "target": "IND",
+      "weight": 1.0
+    },
+    {
+      "source": "EGY",
+      "target": "INO",
+      "weight": 1.0
+    },
+    {
+      "source": "EGY",
+      "target": "KGZ",
+      "weight": 1.0
+    },
+    {
+      "source": "EGY",
+      "target": "MAL",
+      "weight": 1.0
+    },
+    {
+      "source": "EGY",
+      "target": "POL",
+      "weight": 1.0
+    },
+    {
+      "source": "EGY",
+      "target": "TAJ",
+      "weight": 1.0
+    },
+    {
+      "source": "EGY",
+      "target": "THA",
+      "weight": 1.0
+    },
+    {
+      "source": "EGY",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "EST",
+      "target": "FIN",
+      "weight": 1.0
+    },
+    {
+      "source": "EST",
+      "target": "GRC",
+      "weight": 1.0
+    },
+    {
+      "source": "EST",
+      "target": "LVA",
+      "weight": 1.0
+    },
+    {
+      "source": "EST",
+      "target": "MON",
+      "weight": 1.0
+    },
+    {
+      "source": "FIJ",
+      "target": "GEO",
+      "weight": 1.0
+    },
+    {
+      "source": "FIJ",
+      "target": "GRC",
+      "weight": 1.0
+    },
+    {
+      "source": "FIJ",
+      "target": "MAL",
+      "weight": 1.0
+    },
+    {
+      "source": "FIJ",
+      "target": "MLD",
+      "weight": 1.0
+    },
+    {
+      "source": "FIJ",
+      "target": "PHI",
+      "weight": 1.0
+    },
+    {
+      "source": "FIN",
+      "target": "FRA",
+      "weight": 1.0
+    },
+    {
+      "source": "FIN",
+      "target": "GER",
+      "weight": 1.0
+    },
+    {
+      "source": "FIN",
+      "target": "HUN",
+      "weight": 1.0
+    },
+    {
+      "source": "FIN",
+      "target": "MLT",
+      "weight": 1.0
+    },
+    {
+      "source": "FIN",
+      "target": "NET",
+      "weight": 1.0
+    },
+    {
+      "source": "FIN",
+      "target": "NZL",
+      "weight": 1.0
+    },
+    {
+      "source": "FIN",
+      "target": "SVN",
+      "weight": 1.0
+    },
+    {
+      "source": "FIN",
+      "target": "SWE",
+      "weight": 1.0
+    },
+    {
+      "source": "FRA",
+      "target": "GER",
+      "weight": 1.0
+    },
+    {
+      "source": "FRA",
+      "target": "HRV",
+      "weight": 1.0
+    },
+    {
+      "source": "FRA",
+      "target": "HUN",
+      "weight": 1.0
+    },
+    {
+      "source": "FRA",
+      "target": "ITA",
+      "weight": 1.0
+    },
+    {
+      "source": "FRA",
+      "target": "JPN",
+      "weight": 1.0
+    },
+    {
+      "source": "FRA",
+      "target": "NET",
+      "weight": 1.0
+    },
+    {
+      "source": "FRA",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "FRA",
+      "target": "SVK",
+      "weight": 1.0
+    },
+    {
+      "source": "FRA",
+      "target": "SWE",
+      "weight": 1.0
+    },
+    {
+      "source": "FRA",
+      "target": "UKG",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "GRC",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "HRV",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "HUN",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "KAZ",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "KGZ",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "LVA",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "NEP",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "NZL",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "PHI",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "POL",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "TAJ",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "UKG",
+      "weight": 1.0
+    },
+    {
+      "source": "GEO",
+      "target": "UZB",
+      "weight": 1.0
+    },
+    {
+      "source": "GER",
+      "target": "ITA",
+      "weight": 1.0
+    },
+    {
+      "source": "GER",
+      "target": "JPN",
+      "weight": 1.0
+    },
+    {
+      "source": "GER",
+      "target": "NET",
+      "weight": 1.0
+    },
+    {
+      "source": "GER",
+      "target": "SVK",
+      "weight": 1.0
+    },
+    {
+      "source": "GER",
+      "target": "SVN",
+      "weight": 1.0
+    },
+    {
+      "source": "GER",
+      "target": "SWE",
+      "weight": 1.0
+    },
+    {
+      "source": "GRC",
+      "target": "MLD",
+      "weight": 1.0
+    },
+    {
+      "source": "GRC",
+      "target": "NEP",
+      "weight": 1.0
+    },
+    {
+      "source": "GRC",
+      "target": "RUS",
+      "weight": 1.0
+    },
+    {
+      "source": "GRC",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "HRV",
+      "target": "LVA",
+      "weight": 1.0
+    },
+    {
+      "source": "HRV",
+      "target": "NEP",
+      "weight": 1.0
+    },
+    {
+      "source": "HRV",
+      "target": "NOR",
+      "weight": 1.0
+    },
+    {
+      "source": "HRV",
+      "target": "NZL",
+      "weight": 1.0
+    },
+    {
+      "source": "HRV",
+      "target": "POL",
+      "weight": 1.0
+    },
+    {
+      "source": "HRV",
+      "target": "POR",
+      "weight": 1.0
+    },
+    {
+      "source": "HRV",
+      "target": "ROM",
+      "weight": 1.0
+    },
+    {
+      "source": "HRV",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "HRV",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "HUN",
+      "target": "JPN",
+      "weight": 1.0
+    },
+    {
+      "source": "HUN",
+      "target": "POR",
+      "weight": 1.0
+    },
+    {
+      "source": "HUN",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "HUN",
+      "target": "SVK",
+      "weight": 1.0
+    },
+    {
+      "source": "HUN",
+      "target": "SVN",
+      "weight": 1.0
+    },
+    {
+      "source": "HUN",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "IND",
+      "target": "POL",
+      "weight": 1.0
+    },
+    {
+      "source": "IND",
+      "target": "PRC",
+      "weight": 1.0
+    },
+    {
+      "source": "IND",
+      "target": "THA",
+      "weight": 1.0
+    },
+    {
+      "source": "IND",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "IND",
+      "target": "UZB",
+      "weight": 1.0
+    },
+    {
+      "source": "INO",
+      "target": "MAL",
+      "weight": 1.0
+    },
+    {
+      "source": "INO",
+      "target": "TAJ",
+      "weight": 1.0
+    },
+    {
+      "source": "IRE",
+      "target": "LUX",
+      "weight": 1.0
+    },
+    {
+      "source": "IRE",
+      "target": "MLT",
+      "weight": 1.0
+    },
+    {
+      "source": "ITA",
+      "target": "JPN",
+      "weight": 1.0
+    },
+    {
+      "source": "ITA",
+      "target": "LTU",
+      "weight": 1.0
+    },
+    {
+      "source": "ITA",
+      "target": "POR",
+      "weight": 1.0
+    },
+    {
+      "source": "ITA",
+      "target": "ROM",
+      "weight": 1.0
+    },
+    {
+      "source": "ITA",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "ITA",
+      "target": "SVK",
+      "weight": 1.0
+    },
+    {
+      "source": "ITA",
+      "target": "SVN",
+      "weight": 1.0
+    },
+    {
+      "source": "JPN",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "JPN",
+      "target": "SVK",
+      "weight": 1.0
+    },
+    {
+      "source": "KAZ",
+      "target": "RUS",
+      "weight": 1.0
+    },
+    {
+      "source": "KAZ",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "KGZ",
+      "target": "NEP",
+      "weight": 1.0
+    },
+    {
+      "source": "KGZ",
+      "target": "PHI",
+      "weight": 1.0
+    },
+    {
+      "source": "KGZ",
+      "target": "TAJ",
+      "weight": 1.0
+    },
+    {
+      "source": "KGZ",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "KGZ",
+      "target": "UZB",
+      "weight": 1.0
+    },
+    {
+      "source": "KOR",
+      "target": "TAP",
+      "weight": 1.0
+    },
+    {
+      "source": "KOR",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "KUW",
+      "target": "SAU",
+      "weight": 1.0
+    },
+    {
+      "source": "LAO",
+      "target": "PAK",
+      "weight": 1.0
+    },
+    {
+      "source": "LAO",
+      "target": "VIE",
+      "weight": 1.0
+    },
+    {
+      "source": "LTU",
+      "target": "LVA",
+      "weight": 1.0
+    },
+    {
+      "source": "LTU",
+      "target": "MAL",
+      "weight": 1.0
+    },
+    {
+      "source": "LTU",
+      "target": "POL",
+      "weight": 1.0
+    },
+    {
+      "source": "LTU",
+      "target": "ROM",
+      "weight": 1.0
+    },
+    {
+      "source": "LTU",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "LTU",
+      "target": "SVK",
+      "weight": 1.0
+    },
+    {
+      "source": "LTU",
+      "target": "SVN",
+      "weight": 1.0
+    },
+    {
+      "source": "LVA",
+      "target": "MON",
+      "weight": 1.0
+    },
+    {
+      "source": "LVA",
+      "target": "NZL",
+      "weight": 1.0
+    },
+    {
+      "source": "LVA",
+      "target": "ROM",
+      "weight": 1.0
+    },
+    {
+      "source": "LVA",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "MAL",
+      "target": "POL",
+      "weight": 1.0
+    },
+    {
+      "source": "MEX",
+      "target": "TAJ",
+      "weight": 1.0
+    },
+    {
+      "source": "NEP",
+      "target": "PHI",
+      "weight": 1.0
+    },
+    {
+      "source": "NET",
+      "target": "SWE",
+      "weight": 1.0
+    },
+    {
+      "source": "NZL",
+      "target": "ROM",
+      "weight": 1.0
+    },
+    {
+      "source": "NZL",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "NZL",
+      "target": "SWE",
+      "weight": 1.0
+    },
+    {
+      "source": "PAK",
+      "target": "SRI",
+      "weight": 1.0
+    },
+    {
+      "source": "PHI",
+      "target": "TAJ",
+      "weight": 1.0
+    },
+    {
+      "source": "PHI",
+      "target": "UZB",
+      "weight": 1.0
+    },
+    {
+      "source": "POL",
+      "target": "SVK",
+      "weight": 1.0
+    },
+    {
+      "source": "POL",
+      "target": "SVN",
+      "weight": 1.0
+    },
+    {
+      "source": "POL",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "POL",
+      "target": "VIE",
+      "weight": 1.0
+    },
+    {
+      "source": "POR",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "POR",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "PRC",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "PRC",
+      "target": "VIE",
+      "weight": 1.0
+    },
+    {
+      "source": "ROM",
+      "target": "SVK",
+      "weight": 1.0
+    },
+    {
+      "source": "RUS",
+      "target": "SPA",
+      "weight": 1.0
+    },
+    {
+      "source": "RUS",
+      "target": "UAE",
+      "weight": 1.0
+    },
+    {
+      "source": "SIN",
+      "target": "SWI",
+      "weight": 1.0
+    },
+    {
+      "source": "SPA",
+      "target": "SWE",
+      "weight": 1.0
+    },
+    {
+      "source": "SVK",
+      "target": "SVN",
+      "weight": 1.0
+    },
+    {
+      "source": "SVK",
+      "target": "SWE",
+      "weight": 1.0
+    },
+    {
+      "source": "TAJ",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "TAJ",
+      "target": "UZB",
+      "weight": 1.0
+    },
+    {
+      "source": "THA",
+      "target": "TUR",
+      "weight": 1.0
+    },
+    {
+      "source": "TUR",
+      "target": "UZB",
+      "weight": 1.0
+    },
+    {
+      "source": "UKG",
+      "target": "USA",
+      "weight": 1.0
+    }
+  ]
+}

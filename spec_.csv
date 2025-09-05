@@ -1,0 +1,2626 @@
+buyer,industry_buy,m_cp
+ARG,"Agriculture, hunting, forestry, and fishing",1
+ARG,Rubber and plastics,1
+ARG,Other nonmetallic minerals,0
+ARG,Basic metals and fabricated metal,0
+ARG,"Machinery, nec",0
+ARG,Electrical and optical equipment,0
+ARG,Transport equipment,0
+ARG,"Manufacturing, nec; recycling",0
+ARG,"Electricity, gas, and water supply",0
+ARG,Construction,0
+ARG,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+ARG,Mining and quarrying,1
+ARG,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+ARG,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+ARG,Hotels and restaurants,1
+ARG,Inland transport,1
+ARG,Water transport,0
+ARG,Air transport,0
+ARG,Other supporting and auxiliary transport activities; activities of travel agencies,0
+ARG,Post and telecommunications,1
+ARG,Financial intermediation,0
+ARG,Real estate activities,0
+ARG,"Food, beverages, and tobacco",1
+ARG,Renting of M&Eq and other business activities,0
+ARG,Public administration and defense; compulsory social security,0
+ARG,Education,1
+ARG,Health and social work,0
+ARG,"Other community, social, and personal services (creative industry)",1
+ARG,Private households with employed persons,1
+ARG,Textiles and textile products,0
+ARG,"Leather, leather products, and footwear",0
+ARG,Wood and products of wood and cork,0
+ARG,"Pulp, paper, paper products, printing, and publishing",1
+ARG,"Coke, refined petroleum, and nuclear fuel",1
+ARG,Chemicals and chemical products,1
+ARM,"Agriculture, hunting, forestry, and fishing",1
+ARM,Rubber and plastics,0
+ARM,Other nonmetallic minerals,0
+ARM,Basic metals and fabricated metal,0
+ARM,"Machinery, nec",0
+ARM,Electrical and optical equipment,0
+ARM,Transport equipment,0
+ARM,"Manufacturing, nec; recycling",0
+ARM,"Electricity, gas, and water supply",0
+ARM,Construction,1
+ARM,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+ARM,Mining and quarrying,1
+ARM,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+ARM,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+ARM,Hotels and restaurants,1
+ARM,Inland transport,0
+ARM,Water transport,0
+ARM,Air transport,0
+ARM,Other supporting and auxiliary transport activities; activities of travel agencies,1
+ARM,Post and telecommunications,1
+ARM,Financial intermediation,1
+ARM,Real estate activities,1
+ARM,"Food, beverages, and tobacco",1
+ARM,Renting of M&Eq and other business activities,0
+ARM,Public administration and defense; compulsory social security,0
+ARM,Education,0
+ARM,Health and social work,1
+ARM,"Other community, social, and personal services (creative industry)",1
+ARM,Private households with employed persons,0
+ARM,Textiles and textile products,0
+ARM,"Leather, leather products, and footwear",0
+ARM,Wood and products of wood and cork,0
+ARM,"Pulp, paper, paper products, printing, and publishing",0
+ARM,"Coke, refined petroleum, and nuclear fuel",0
+ARM,Chemicals and chemical products,0
+AUS,"Agriculture, hunting, forestry, and fishing",0
+AUS,Rubber and plastics,0
+AUS,Other nonmetallic minerals,0
+AUS,Basic metals and fabricated metal,0
+AUS,"Machinery, nec",0
+AUS,Electrical and optical equipment,0
+AUS,Transport equipment,0
+AUS,"Manufacturing, nec; recycling",0
+AUS,"Electricity, gas, and water supply",0
+AUS,Construction,1
+AUS,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+AUS,Mining and quarrying,1
+AUS,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+AUS,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+AUS,Hotels and restaurants,0
+AUS,Inland transport,0
+AUS,Water transport,0
+AUS,Air transport,1
+AUS,Other supporting and auxiliary transport activities; activities of travel agencies,1
+AUS,Post and telecommunications,1
+AUS,Financial intermediation,1
+AUS,Real estate activities,1
+AUS,"Food, beverages, and tobacco",0
+AUS,Renting of M&Eq and other business activities,1
+AUS,Public administration and defense; compulsory social security,0
+AUS,Education,1
+AUS,Health and social work,1
+AUS,"Other community, social, and personal services (creative industry)",0
+AUS,Private households with employed persons,1
+AUS,Textiles and textile products,0
+AUS,"Leather, leather products, and footwear",0
+AUS,Wood and products of wood and cork,1
+AUS,"Pulp, paper, paper products, printing, and publishing",0
+AUS,"Coke, refined petroleum, and nuclear fuel",0
+AUS,Chemicals and chemical products,0
+AUT,"Agriculture, hunting, forestry, and fishing",0
+AUT,Rubber and plastics,0
+AUT,Other nonmetallic minerals,0
+AUT,Basic metals and fabricated metal,1
+AUT,"Machinery, nec",1
+AUT,Electrical and optical equipment,0
+AUT,Transport equipment,0
+AUT,"Manufacturing, nec; recycling",1
+AUT,"Electricity, gas, and water supply",1
+AUT,Construction,0
+AUT,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+AUT,Mining and quarrying,0
+AUT,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+AUT,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+AUT,Hotels and restaurants,1
+AUT,Inland transport,0
+AUT,Water transport,0
+AUT,Air transport,1
+AUT,Other supporting and auxiliary transport activities; activities of travel agencies,1
+AUT,Post and telecommunications,0
+AUT,Financial intermediation,0
+AUT,Real estate activities,1
+AUT,"Food, beverages, and tobacco",0
+AUT,Renting of M&Eq and other business activities,1
+AUT,Public administration and defense; compulsory social security,0
+AUT,Education,1
+AUT,Health and social work,1
+AUT,"Other community, social, and personal services (creative industry)",1
+AUT,Private households with employed persons,0
+AUT,Textiles and textile products,0
+AUT,"Leather, leather products, and footwear",0
+AUT,Wood and products of wood and cork,1
+AUT,"Pulp, paper, paper products, printing, and publishing",1
+AUT,"Coke, refined petroleum, and nuclear fuel",0
+AUT,Chemicals and chemical products,0
+BAN,"Agriculture, hunting, forestry, and fishing",1
+BAN,Rubber and plastics,1
+BAN,Other nonmetallic minerals,1
+BAN,Basic metals and fabricated metal,0
+BAN,"Machinery, nec",0
+BAN,Electrical and optical equipment,0
+BAN,Transport equipment,0
+BAN,"Manufacturing, nec; recycling",1
+BAN,"Electricity, gas, and water supply",0
+BAN,Construction,1
+BAN,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+BAN,Mining and quarrying,0
+BAN,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+BAN,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+BAN,Hotels and restaurants,1
+BAN,Inland transport,1
+BAN,Water transport,0
+BAN,Air transport,0
+BAN,Other supporting and auxiliary transport activities; activities of travel agencies,0
+BAN,Post and telecommunications,0
+BAN,Financial intermediation,0
+BAN,Real estate activities,0
+BAN,"Food, beverages, and tobacco",1
+BAN,Renting of M&Eq and other business activities,0
+BAN,Public administration and defense; compulsory social security,0
+BAN,Education,1
+BAN,Health and social work,0
+BAN,"Other community, social, and personal services (creative industry)",1
+BAN,Private households with employed persons,0
+BAN,Textiles and textile products,1
+BAN,"Leather, leather products, and footwear",1
+BAN,Wood and products of wood and cork,0
+BAN,"Pulp, paper, paper products, printing, and publishing",0
+BAN,"Coke, refined petroleum, and nuclear fuel",0
+BAN,Chemicals and chemical products,0
+BEL,"Agriculture, hunting, forestry, and fishing",0
+BEL,Rubber and plastics,0
+BEL,Other nonmetallic minerals,0
+BEL,Basic metals and fabricated metal,0
+BEL,"Machinery, nec",0
+BEL,Electrical and optical equipment,0
+BEL,Transport equipment,0
+BEL,"Manufacturing, nec; recycling",0
+BEL,"Electricity, gas, and water supply",0
+BEL,Construction,1
+BEL,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+BEL,Mining and quarrying,0
+BEL,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+BEL,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+BEL,Hotels and restaurants,0
+BEL,Inland transport,0
+BEL,Water transport,0
+BEL,Air transport,0
+BEL,Other supporting and auxiliary transport activities; activities of travel agencies,1
+BEL,Post and telecommunications,0
+BEL,Financial intermediation,1
+BEL,Real estate activities,0
+BEL,"Food, beverages, and tobacco",1
+BEL,Renting of M&Eq and other business activities,1
+BEL,Public administration and defense; compulsory social security,0
+BEL,Education,1
+BEL,Health and social work,1
+BEL,"Other community, social, and personal services (creative industry)",1
+BEL,Private households with employed persons,0
+BEL,Textiles and textile products,0
+BEL,"Leather, leather products, and footwear",0
+BEL,Wood and products of wood and cork,0
+BEL,"Pulp, paper, paper products, printing, and publishing",0
+BEL,"Coke, refined petroleum, and nuclear fuel",1
+BEL,Chemicals and chemical products,1
+BGR,"Agriculture, hunting, forestry, and fishing",0
+BGR,Rubber and plastics,1
+BGR,Other nonmetallic minerals,1
+BGR,Basic metals and fabricated metal,1
+BGR,"Machinery, nec",0
+BGR,Electrical and optical equipment,0
+BGR,Transport equipment,0
+BGR,"Manufacturing, nec; recycling",1
+BGR,"Electricity, gas, and water supply",1
+BGR,Construction,0
+BGR,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+BGR,Mining and quarrying,0
+BGR,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+BGR,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+BGR,Hotels and restaurants,0
+BGR,Inland transport,1
+BGR,Water transport,0
+BGR,Air transport,0
+BGR,Other supporting and auxiliary transport activities; activities of travel agencies,1
+BGR,Post and telecommunications,1
+BGR,Financial intermediation,0
+BGR,Real estate activities,0
+BGR,"Food, beverages, and tobacco",1
+BGR,Renting of M&Eq and other business activities,1
+BGR,Public administration and defense; compulsory social security,0
+BGR,Education,1
+BGR,Health and social work,0
+BGR,"Other community, social, and personal services (creative industry)",1
+BGR,Private households with employed persons,0
+BGR,Textiles and textile products,0
+BGR,"Leather, leather products, and footwear",0
+BGR,Wood and products of wood and cork,0
+BGR,"Pulp, paper, paper products, printing, and publishing",0
+BGR,"Coke, refined petroleum, and nuclear fuel",1
+BGR,Chemicals and chemical products,0
+BHU,"Agriculture, hunting, forestry, and fishing",1
+BHU,Rubber and plastics,0
+BHU,Other nonmetallic minerals,1
+BHU,Basic metals and fabricated metal,0
+BHU,"Machinery, nec",0
+BHU,Electrical and optical equipment,0
+BHU,Transport equipment,0
+BHU,"Manufacturing, nec; recycling",0
+BHU,"Electricity, gas, and water supply",1
+BHU,Construction,1
+BHU,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+BHU,Mining and quarrying,1
+BHU,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+BHU,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+BHU,Hotels and restaurants,0
+BHU,Inland transport,1
+BHU,Water transport,0
+BHU,Air transport,1
+BHU,Other supporting and auxiliary transport activities; activities of travel agencies,0
+BHU,Post and telecommunications,1
+BHU,Financial intermediation,0
+BHU,Real estate activities,0
+BHU,"Food, beverages, and tobacco",0
+BHU,Renting of M&Eq and other business activities,0
+BHU,Public administration and defense; compulsory social security,1
+BHU,Education,1
+BHU,Health and social work,0
+BHU,"Other community, social, and personal services (creative industry)",0
+BHU,Private households with employed persons,0
+BHU,Textiles and textile products,0
+BHU,"Leather, leather products, and footwear",0
+BHU,Wood and products of wood and cork,0
+BHU,"Pulp, paper, paper products, printing, and publishing",0
+BHU,"Coke, refined petroleum, and nuclear fuel",0
+BHU,Chemicals and chemical products,0
+BRA,"Agriculture, hunting, forestry, and fishing",1
+BRA,Rubber and plastics,1
+BRA,Other nonmetallic minerals,0
+BRA,Basic metals and fabricated metal,0
+BRA,"Machinery, nec",0
+BRA,Electrical and optical equipment,0
+BRA,Transport equipment,0
+BRA,"Manufacturing, nec; recycling",1
+BRA,"Electricity, gas, and water supply",0
+BRA,Construction,0
+BRA,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+BRA,Mining and quarrying,1
+BRA,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+BRA,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+BRA,Hotels and restaurants,1
+BRA,Inland transport,1
+BRA,Water transport,0
+BRA,Air transport,0
+BRA,Other supporting and auxiliary transport activities; activities of travel agencies,0
+BRA,Post and telecommunications,1
+BRA,Financial intermediation,0
+BRA,Real estate activities,0
+BRA,"Food, beverages, and tobacco",1
+BRA,Renting of M&Eq and other business activities,1
+BRA,Public administration and defense; compulsory social security,0
+BRA,Education,1
+BRA,Health and social work,0
+BRA,"Other community, social, and personal services (creative industry)",0
+BRA,Private households with employed persons,1
+BRA,Textiles and textile products,1
+BRA,"Leather, leather products, and footwear",1
+BRA,Wood and products of wood and cork,0
+BRA,"Pulp, paper, paper products, printing, and publishing",1
+BRA,"Coke, refined petroleum, and nuclear fuel",1
+BRA,Chemicals and chemical products,1
+BRU,"Agriculture, hunting, forestry, and fishing",0
+BRU,Rubber and plastics,0
+BRU,Other nonmetallic minerals,0
+BRU,Basic metals and fabricated metal,0
+BRU,"Machinery, nec",0
+BRU,Electrical and optical equipment,0
+BRU,Transport equipment,0
+BRU,"Manufacturing, nec; recycling",0
+BRU,"Electricity, gas, and water supply",0
+BRU,Construction,0
+BRU,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+BRU,Mining and quarrying,1
+BRU,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+BRU,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+BRU,Hotels and restaurants,0
+BRU,Inland transport,0
+BRU,Water transport,1
+BRU,Air transport,1
+BRU,Other supporting and auxiliary transport activities; activities of travel agencies,0
+BRU,Post and telecommunications,1
+BRU,Financial intermediation,0
+BRU,Real estate activities,0
+BRU,"Food, beverages, and tobacco",0
+BRU,Renting of M&Eq and other business activities,0
+BRU,Public administration and defense; compulsory social security,1
+BRU,Education,1
+BRU,Health and social work,0
+BRU,"Other community, social, and personal services (creative industry)",0
+BRU,Private households with employed persons,0
+BRU,Textiles and textile products,0
+BRU,"Leather, leather products, and footwear",0
+BRU,Wood and products of wood and cork,0
+BRU,"Pulp, paper, paper products, printing, and publishing",0
+BRU,"Coke, refined petroleum, and nuclear fuel",1
+BRU,Chemicals and chemical products,0
+CAM,"Agriculture, hunting, forestry, and fishing",1
+CAM,Rubber and plastics,1
+CAM,Other nonmetallic minerals,0
+CAM,Basic metals and fabricated metal,1
+CAM,"Machinery, nec",0
+CAM,Electrical and optical equipment,0
+CAM,Transport equipment,0
+CAM,"Manufacturing, nec; recycling",0
+CAM,"Electricity, gas, and water supply",1
+CAM,Construction,1
+CAM,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+CAM,Mining and quarrying,0
+CAM,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+CAM,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+CAM,Hotels and restaurants,1
+CAM,Inland transport,1
+CAM,Water transport,0
+CAM,Air transport,0
+CAM,Other supporting and auxiliary transport activities; activities of travel agencies,0
+CAM,Post and telecommunications,1
+CAM,Financial intermediation,0
+CAM,Real estate activities,0
+CAM,"Food, beverages, and tobacco",1
+CAM,Renting of M&Eq and other business activities,0
+CAM,Public administration and defense; compulsory social security,0
+CAM,Education,0
+CAM,Health and social work,0
+CAM,"Other community, social, and personal services (creative industry)",0
+CAM,Private households with employed persons,0
+CAM,Textiles and textile products,1
+CAM,"Leather, leather products, and footwear",0
+CAM,Wood and products of wood and cork,1
+CAM,"Pulp, paper, paper products, printing, and publishing",1
+CAM,"Coke, refined petroleum, and nuclear fuel",0
+CAM,Chemicals and chemical products,0
+CAN,"Agriculture, hunting, forestry, and fishing",0
+CAN,Rubber and plastics,0
+CAN,Other nonmetallic minerals,0
+CAN,Basic metals and fabricated metal,0
+CAN,"Machinery, nec",0
+CAN,Electrical and optical equipment,0
+CAN,Transport equipment,0
+CAN,"Manufacturing, nec; recycling",0
+CAN,"Electricity, gas, and water supply",0
+CAN,Construction,1
+CAN,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+CAN,Mining and quarrying,1
+CAN,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+CAN,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+CAN,Hotels and restaurants,0
+CAN,Inland transport,1
+CAN,Water transport,0
+CAN,Air transport,1
+CAN,Other supporting and auxiliary transport activities; activities of travel agencies,0
+CAN,Post and telecommunications,1
+CAN,Financial intermediation,1
+CAN,Real estate activities,1
+CAN,"Food, beverages, and tobacco",0
+CAN,Renting of M&Eq and other business activities,0
+CAN,Public administration and defense; compulsory social security,1
+CAN,Education,1
+CAN,Health and social work,1
+CAN,"Other community, social, and personal services (creative industry)",0
+CAN,Private households with employed persons,0
+CAN,Textiles and textile products,0
+CAN,"Leather, leather products, and footwear",0
+CAN,Wood and products of wood and cork,1
+CAN,"Pulp, paper, paper products, printing, and publishing",0
+CAN,"Coke, refined petroleum, and nuclear fuel",1
+CAN,Chemicals and chemical products,0
+COL,"Agriculture, hunting, forestry, and fishing",1
+COL,Rubber and plastics,0
+COL,Other nonmetallic minerals,0
+COL,Basic metals and fabricated metal,0
+COL,"Machinery, nec",0
+COL,Electrical and optical equipment,0
+COL,Transport equipment,0
+COL,"Manufacturing, nec; recycling",0
+COL,"Electricity, gas, and water supply",1
+COL,Construction,0
+COL,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+COL,Mining and quarrying,1
+COL,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+COL,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+COL,Hotels and restaurants,1
+COL,Inland transport,1
+COL,Water transport,0
+COL,Air transport,1
+COL,Other supporting and auxiliary transport activities; activities of travel agencies,0
+COL,Post and telecommunications,0
+COL,Financial intermediation,0
+COL,Real estate activities,0
+COL,"Food, beverages, and tobacco",1
+COL,Renting of M&Eq and other business activities,0
+COL,Public administration and defense; compulsory social security,1
+COL,Education,1
+COL,Health and social work,1
+COL,"Other community, social, and personal services (creative industry)",1
+COL,Private households with employed persons,1
+COL,Textiles and textile products,0
+COL,"Leather, leather products, and footwear",0
+COL,Wood and products of wood and cork,0
+COL,"Pulp, paper, paper products, printing, and publishing",1
+COL,"Coke, refined petroleum, and nuclear fuel",1
+COL,Chemicals and chemical products,0
+CYP,"Agriculture, hunting, forestry, and fishing",0
+CYP,Rubber and plastics,0
+CYP,Other nonmetallic minerals,0
+CYP,Basic metals and fabricated metal,0
+CYP,"Machinery, nec",0
+CYP,Electrical and optical equipment,0
+CYP,Transport equipment,0
+CYP,"Manufacturing, nec; recycling",0
+CYP,"Electricity, gas, and water supply",0
+CYP,Construction,1
+CYP,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+CYP,Mining and quarrying,0
+CYP,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+CYP,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+CYP,Hotels and restaurants,1
+CYP,Inland transport,0
+CYP,Water transport,1
+CYP,Air transport,0
+CYP,Other supporting and auxiliary transport activities; activities of travel agencies,1
+CYP,Post and telecommunications,0
+CYP,Financial intermediation,1
+CYP,Real estate activities,0
+CYP,"Food, beverages, and tobacco",0
+CYP,Renting of M&Eq and other business activities,1
+CYP,Public administration and defense; compulsory social security,0
+CYP,Education,1
+CYP,Health and social work,0
+CYP,"Other community, social, and personal services (creative industry)",0
+CYP,Private households with employed persons,1
+CYP,Textiles and textile products,0
+CYP,"Leather, leather products, and footwear",0
+CYP,Wood and products of wood and cork,0
+CYP,"Pulp, paper, paper products, printing, and publishing",1
+CYP,"Coke, refined petroleum, and nuclear fuel",0
+CYP,Chemicals and chemical products,0
+CZE,"Agriculture, hunting, forestry, and fishing",0
+CZE,Rubber and plastics,1
+CZE,Other nonmetallic minerals,1
+CZE,Basic metals and fabricated metal,1
+CZE,"Machinery, nec",1
+CZE,Electrical and optical equipment,1
+CZE,Transport equipment,1
+CZE,"Manufacturing, nec; recycling",0
+CZE,"Electricity, gas, and water supply",1
+CZE,Construction,0
+CZE,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+CZE,Mining and quarrying,0
+CZE,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+CZE,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+CZE,Hotels and restaurants,0
+CZE,Inland transport,1
+CZE,Water transport,0
+CZE,Air transport,0
+CZE,Other supporting and auxiliary transport activities; activities of travel agencies,1
+CZE,Post and telecommunications,1
+CZE,Financial intermediation,0
+CZE,Real estate activities,1
+CZE,"Food, beverages, and tobacco",0
+CZE,Renting of M&Eq and other business activities,0
+CZE,Public administration and defense; compulsory social security,0
+CZE,Education,1
+CZE,Health and social work,0
+CZE,"Other community, social, and personal services (creative industry)",0
+CZE,Private households with employed persons,0
+CZE,Textiles and textile products,0
+CZE,"Leather, leather products, and footwear",0
+CZE,Wood and products of wood and cork,1
+CZE,"Pulp, paper, paper products, printing, and publishing",0
+CZE,"Coke, refined petroleum, and nuclear fuel",0
+CZE,Chemicals and chemical products,0
+DEN,"Agriculture, hunting, forestry, and fishing",0
+DEN,Rubber and plastics,0
+DEN,Other nonmetallic minerals,0
+DEN,Basic metals and fabricated metal,0
+DEN,"Machinery, nec",1
+DEN,Electrical and optical equipment,0
+DEN,Transport equipment,0
+DEN,"Manufacturing, nec; recycling",1
+DEN,"Electricity, gas, and water supply",0
+DEN,Construction,0
+DEN,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+DEN,Mining and quarrying,0
+DEN,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+DEN,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+DEN,Hotels and restaurants,0
+DEN,Inland transport,0
+DEN,Water transport,1
+DEN,Air transport,0
+DEN,Other supporting and auxiliary transport activities; activities of travel agencies,1
+DEN,Post and telecommunications,0
+DEN,Financial intermediation,0
+DEN,Real estate activities,1
+DEN,"Food, beverages, and tobacco",0
+DEN,Renting of M&Eq and other business activities,1
+DEN,Public administration and defense; compulsory social security,0
+DEN,Education,1
+DEN,Health and social work,1
+DEN,"Other community, social, and personal services (creative industry)",1
+DEN,Private households with employed persons,1
+DEN,Textiles and textile products,0
+DEN,"Leather, leather products, and footwear",0
+DEN,Wood and products of wood and cork,0
+DEN,"Pulp, paper, paper products, printing, and publishing",1
+DEN,"Coke, refined petroleum, and nuclear fuel",0
+DEN,Chemicals and chemical products,1
+ECU,"Agriculture, hunting, forestry, and fishing",1
+ECU,Rubber and plastics,0
+ECU,Other nonmetallic minerals,0
+ECU,Basic metals and fabricated metal,0
+ECU,"Machinery, nec",0
+ECU,Electrical and optical equipment,0
+ECU,Transport equipment,0
+ECU,"Manufacturing, nec; recycling",1
+ECU,"Electricity, gas, and water supply",0
+ECU,Construction,1
+ECU,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+ECU,Mining and quarrying,1
+ECU,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+ECU,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+ECU,Hotels and restaurants,1
+ECU,Inland transport,1
+ECU,Water transport,1
+ECU,Air transport,0
+ECU,Other supporting and auxiliary transport activities; activities of travel agencies,1
+ECU,Post and telecommunications,0
+ECU,Financial intermediation,0
+ECU,Real estate activities,0
+ECU,"Food, beverages, and tobacco",1
+ECU,Renting of M&Eq and other business activities,0
+ECU,Public administration and defense; compulsory social security,0
+ECU,Education,1
+ECU,Health and social work,1
+ECU,"Other community, social, and personal services (creative industry)",0
+ECU,Private households with employed persons,1
+ECU,Textiles and textile products,0
+ECU,"Leather, leather products, and footwear",0
+ECU,Wood and products of wood and cork,1
+ECU,"Pulp, paper, paper products, printing, and publishing",0
+ECU,"Coke, refined petroleum, and nuclear fuel",1
+ECU,Chemicals and chemical products,0
+EGY,"Agriculture, hunting, forestry, and fishing",1
+EGY,Rubber and plastics,1
+EGY,Other nonmetallic minerals,1
+EGY,Basic metals and fabricated metal,0
+EGY,"Machinery, nec",0
+EGY,Electrical and optical equipment,0
+EGY,Transport equipment,0
+EGY,"Manufacturing, nec; recycling",1
+EGY,"Electricity, gas, and water supply",0
+EGY,Construction,1
+EGY,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+EGY,Mining and quarrying,1
+EGY,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+EGY,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+EGY,Hotels and restaurants,1
+EGY,Inland transport,0
+EGY,Water transport,1
+EGY,Air transport,0
+EGY,Other supporting and auxiliary transport activities; activities of travel agencies,0
+EGY,Post and telecommunications,1
+EGY,Financial intermediation,0
+EGY,Real estate activities,0
+EGY,"Food, beverages, and tobacco",1
+EGY,Renting of M&Eq and other business activities,0
+EGY,Public administration and defense; compulsory social security,0
+EGY,Education,1
+EGY,Health and social work,0
+EGY,"Other community, social, and personal services (creative industry)",0
+EGY,Private households with employed persons,0
+EGY,Textiles and textile products,1
+EGY,"Leather, leather products, and footwear",0
+EGY,Wood and products of wood and cork,0
+EGY,"Pulp, paper, paper products, printing, and publishing",0
+EGY,"Coke, refined petroleum, and nuclear fuel",1
+EGY,Chemicals and chemical products,0
+EST,"Agriculture, hunting, forestry, and fishing",1
+EST,Rubber and plastics,0
+EST,Other nonmetallic minerals,0
+EST,Basic metals and fabricated metal,0
+EST,"Machinery, nec",0
+EST,Electrical and optical equipment,0
+EST,Transport equipment,0
+EST,"Manufacturing, nec; recycling",1
+EST,"Electricity, gas, and water supply",1
+EST,Construction,0
+EST,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+EST,Mining and quarrying,0
+EST,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+EST,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+EST,Hotels and restaurants,0
+EST,Inland transport,1
+EST,Water transport,1
+EST,Air transport,1
+EST,Other supporting and auxiliary transport activities; activities of travel agencies,1
+EST,Post and telecommunications,0
+EST,Financial intermediation,0
+EST,Real estate activities,1
+EST,"Food, beverages, and tobacco",0
+EST,Renting of M&Eq and other business activities,1
+EST,Public administration and defense; compulsory social security,0
+EST,Education,1
+EST,Health and social work,0
+EST,"Other community, social, and personal services (creative industry)",1
+EST,Private households with employed persons,0
+EST,Textiles and textile products,0
+EST,"Leather, leather products, and footwear",0
+EST,Wood and products of wood and cork,1
+EST,"Pulp, paper, paper products, printing, and publishing",0
+EST,"Coke, refined petroleum, and nuclear fuel",0
+EST,Chemicals and chemical products,0
+FIJ,"Agriculture, hunting, forestry, and fishing",1
+FIJ,Rubber and plastics,0
+FIJ,Other nonmetallic minerals,0
+FIJ,Basic metals and fabricated metal,0
+FIJ,"Machinery, nec",0
+FIJ,Electrical and optical equipment,0
+FIJ,Transport equipment,0
+FIJ,"Manufacturing, nec; recycling",0
+FIJ,"Electricity, gas, and water supply",0
+FIJ,Construction,0
+FIJ,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+FIJ,Mining and quarrying,0
+FIJ,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+FIJ,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+FIJ,Hotels and restaurants,1
+FIJ,Inland transport,0
+FIJ,Water transport,1
+FIJ,Air transport,1
+FIJ,Other supporting and auxiliary transport activities; activities of travel agencies,1
+FIJ,Post and telecommunications,1
+FIJ,Financial intermediation,1
+FIJ,Real estate activities,0
+FIJ,"Food, beverages, and tobacco",1
+FIJ,Renting of M&Eq and other business activities,0
+FIJ,Public administration and defense; compulsory social security,1
+FIJ,Education,1
+FIJ,Health and social work,0
+FIJ,"Other community, social, and personal services (creative industry)",0
+FIJ,Private households with employed persons,0
+FIJ,Textiles and textile products,0
+FIJ,"Leather, leather products, and footwear",0
+FIJ,Wood and products of wood and cork,1
+FIJ,"Pulp, paper, paper products, printing, and publishing",0
+FIJ,"Coke, refined petroleum, and nuclear fuel",0
+FIJ,Chemicals and chemical products,0
+FIN,"Agriculture, hunting, forestry, and fishing",0
+FIN,Rubber and plastics,0
+FIN,Other nonmetallic minerals,0
+FIN,Basic metals and fabricated metal,1
+FIN,"Machinery, nec",1
+FIN,Electrical and optical equipment,1
+FIN,Transport equipment,0
+FIN,"Manufacturing, nec; recycling",0
+FIN,"Electricity, gas, and water supply",0
+FIN,Construction,0
+FIN,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+FIN,Mining and quarrying,0
+FIN,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+FIN,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+FIN,Hotels and restaurants,0
+FIN,Inland transport,0
+FIN,Water transport,1
+FIN,Air transport,1
+FIN,Other supporting and auxiliary transport activities; activities of travel agencies,1
+FIN,Post and telecommunications,0
+FIN,Financial intermediation,0
+FIN,Real estate activities,1
+FIN,"Food, beverages, and tobacco",0
+FIN,Renting of M&Eq and other business activities,1
+FIN,Public administration and defense; compulsory social security,0
+FIN,Education,1
+FIN,Health and social work,1
+FIN,"Other community, social, and personal services (creative industry)",1
+FIN,Private households with employed persons,0
+FIN,Textiles and textile products,0
+FIN,"Leather, leather products, and footwear",0
+FIN,Wood and products of wood and cork,1
+FIN,"Pulp, paper, paper products, printing, and publishing",1
+FIN,"Coke, refined petroleum, and nuclear fuel",0
+FIN,Chemicals and chemical products,0
+FRA,"Agriculture, hunting, forestry, and fishing",0
+FRA,Rubber and plastics,0
+FRA,Other nonmetallic minerals,0
+FRA,Basic metals and fabricated metal,0
+FRA,"Machinery, nec",1
+FRA,Electrical and optical equipment,0
+FRA,Transport equipment,1
+FRA,"Manufacturing, nec; recycling",0
+FRA,"Electricity, gas, and water supply",1
+FRA,Construction,0
+FRA,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+FRA,Mining and quarrying,0
+FRA,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+FRA,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+FRA,Hotels and restaurants,1
+FRA,Inland transport,0
+FRA,Water transport,1
+FRA,Air transport,0
+FRA,Other supporting and auxiliary transport activities; activities of travel agencies,1
+FRA,Post and telecommunications,0
+FRA,Financial intermediation,0
+FRA,Real estate activities,1
+FRA,"Food, beverages, and tobacco",0
+FRA,Renting of M&Eq and other business activities,1
+FRA,Public administration and defense; compulsory social security,0
+FRA,Education,1
+FRA,Health and social work,1
+FRA,"Other community, social, and personal services (creative industry)",1
+FRA,Private households with employed persons,0
+FRA,Textiles and textile products,0
+FRA,"Leather, leather products, and footwear",0
+FRA,Wood and products of wood and cork,0
+FRA,"Pulp, paper, paper products, printing, and publishing",1
+FRA,"Coke, refined petroleum, and nuclear fuel",0
+FRA,Chemicals and chemical products,0
+GEO,"Agriculture, hunting, forestry, and fishing",1
+GEO,Rubber and plastics,0
+GEO,Other nonmetallic minerals,1
+GEO,Basic metals and fabricated metal,0
+GEO,"Machinery, nec",0
+GEO,Electrical and optical equipment,0
+GEO,Transport equipment,0
+GEO,"Manufacturing, nec; recycling",0
+GEO,"Electricity, gas, and water supply",0
+GEO,Construction,1
+GEO,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+GEO,Mining and quarrying,0
+GEO,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+GEO,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+GEO,Hotels and restaurants,1
+GEO,Inland transport,1
+GEO,Water transport,0
+GEO,Air transport,1
+GEO,Other supporting and auxiliary transport activities; activities of travel agencies,1
+GEO,Post and telecommunications,1
+GEO,Financial intermediation,0
+GEO,Real estate activities,1
+GEO,"Food, beverages, and tobacco",1
+GEO,Renting of M&Eq and other business activities,0
+GEO,Public administration and defense; compulsory social security,0
+GEO,Education,1
+GEO,Health and social work,0
+GEO,"Other community, social, and personal services (creative industry)",1
+GEO,Private households with employed persons,0
+GEO,Textiles and textile products,0
+GEO,"Leather, leather products, and footwear",0
+GEO,Wood and products of wood and cork,0
+GEO,"Pulp, paper, paper products, printing, and publishing",1
+GEO,"Coke, refined petroleum, and nuclear fuel",0
+GEO,Chemicals and chemical products,0
+GER,"Agriculture, hunting, forestry, and fishing",0
+GER,Rubber and plastics,1
+GER,Other nonmetallic minerals,0
+GER,Basic metals and fabricated metal,1
+GER,"Machinery, nec",1
+GER,Electrical and optical equipment,0
+GER,Transport equipment,1
+GER,"Manufacturing, nec; recycling",0
+GER,"Electricity, gas, and water supply",0
+GER,Construction,0
+GER,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+GER,Mining and quarrying,0
+GER,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+GER,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+GER,Hotels and restaurants,0
+GER,Inland transport,0
+GER,Water transport,1
+GER,Air transport,0
+GER,Other supporting and auxiliary transport activities; activities of travel agencies,1
+GER,Post and telecommunications,1
+GER,Financial intermediation,0
+GER,Real estate activities,1
+GER,"Food, beverages, and tobacco",0
+GER,Renting of M&Eq and other business activities,1
+GER,Public administration and defense; compulsory social security,0
+GER,Education,1
+GER,Health and social work,1
+GER,"Other community, social, and personal services (creative industry)",1
+GER,Private households with employed persons,1
+GER,Textiles and textile products,0
+GER,"Leather, leather products, and footwear",0
+GER,Wood and products of wood and cork,1
+GER,"Pulp, paper, paper products, printing, and publishing",1
+GER,"Coke, refined petroleum, and nuclear fuel",0
+GER,Chemicals and chemical products,1
+GRC,"Agriculture, hunting, forestry, and fishing",1
+GRC,Rubber and plastics,0
+GRC,Other nonmetallic minerals,0
+GRC,Basic metals and fabricated metal,0
+GRC,"Machinery, nec",0
+GRC,Electrical and optical equipment,0
+GRC,Transport equipment,0
+GRC,"Manufacturing, nec; recycling",0
+GRC,"Electricity, gas, and water supply",1
+GRC,Construction,0
+GRC,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+GRC,Mining and quarrying,0
+GRC,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+GRC,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+GRC,Hotels and restaurants,1
+GRC,Inland transport,0
+GRC,Water transport,1
+GRC,Air transport,1
+GRC,Other supporting and auxiliary transport activities; activities of travel agencies,1
+GRC,Post and telecommunications,1
+GRC,Financial intermediation,0
+GRC,Real estate activities,1
+GRC,"Food, beverages, and tobacco",1
+GRC,Renting of M&Eq and other business activities,0
+GRC,Public administration and defense; compulsory social security,1
+GRC,Education,1
+GRC,Health and social work,0
+GRC,"Other community, social, and personal services (creative industry)",1
+GRC,Private households with employed persons,1
+GRC,Textiles and textile products,0
+GRC,"Leather, leather products, and footwear",0
+GRC,Wood and products of wood and cork,0
+GRC,"Pulp, paper, paper products, printing, and publishing",0
+GRC,"Coke, refined petroleum, and nuclear fuel",1
+GRC,Chemicals and chemical products,0
+HKG,"Agriculture, hunting, forestry, and fishing",0
+HKG,Rubber and plastics,0
+HKG,Other nonmetallic minerals,0
+HKG,Basic metals and fabricated metal,0
+HKG,"Machinery, nec",0
+HKG,Electrical and optical equipment,0
+HKG,Transport equipment,0
+HKG,"Manufacturing, nec; recycling",0
+HKG,"Electricity, gas, and water supply",0
+HKG,Construction,0
+HKG,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+HKG,Mining and quarrying,0
+HKG,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+HKG,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+HKG,Hotels and restaurants,0
+HKG,Inland transport,0
+HKG,Water transport,1
+HKG,Air transport,1
+HKG,Other supporting and auxiliary transport activities; activities of travel agencies,0
+HKG,Post and telecommunications,1
+HKG,Financial intermediation,1
+HKG,Real estate activities,1
+HKG,"Food, beverages, and tobacco",0
+HKG,Renting of M&Eq and other business activities,0
+HKG,Public administration and defense; compulsory social security,1
+HKG,Education,0
+HKG,Health and social work,0
+HKG,"Other community, social, and personal services (creative industry)",0
+HKG,Private households with employed persons,0
+HKG,Textiles and textile products,0
+HKG,"Leather, leather products, and footwear",0
+HKG,Wood and products of wood and cork,0
+HKG,"Pulp, paper, paper products, printing, and publishing",0
+HKG,"Coke, refined petroleum, and nuclear fuel",0
+HKG,Chemicals and chemical products,0
+HRV,"Agriculture, hunting, forestry, and fishing",1
+HRV,Rubber and plastics,0
+HRV,Other nonmetallic minerals,1
+HRV,Basic metals and fabricated metal,0
+HRV,"Machinery, nec",0
+HRV,Electrical and optical equipment,0
+HRV,Transport equipment,0
+HRV,"Manufacturing, nec; recycling",0
+HRV,"Electricity, gas, and water supply",1
+HRV,Construction,1
+HRV,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+HRV,Mining and quarrying,0
+HRV,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+HRV,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+HRV,Hotels and restaurants,1
+HRV,Inland transport,1
+HRV,Water transport,1
+HRV,Air transport,0
+HRV,Other supporting and auxiliary transport activities; activities of travel agencies,1
+HRV,Post and telecommunications,0
+HRV,Financial intermediation,0
+HRV,Real estate activities,0
+HRV,"Food, beverages, and tobacco",1
+HRV,Renting of M&Eq and other business activities,0
+HRV,Public administration and defense; compulsory social security,0
+HRV,Education,1
+HRV,Health and social work,1
+HRV,"Other community, social, and personal services (creative industry)",1
+HRV,Private households with employed persons,0
+HRV,Textiles and textile products,0
+HRV,"Leather, leather products, and footwear",0
+HRV,Wood and products of wood and cork,1
+HRV,"Pulp, paper, paper products, printing, and publishing",1
+HRV,"Coke, refined petroleum, and nuclear fuel",0
+HRV,Chemicals and chemical products,0
+HUN,"Agriculture, hunting, forestry, and fishing",0
+HUN,Rubber and plastics,1
+HUN,Other nonmetallic minerals,0
+HUN,Basic metals and fabricated metal,0
+HUN,"Machinery, nec",1
+HUN,Electrical and optical equipment,1
+HUN,Transport equipment,1
+HUN,"Manufacturing, nec; recycling",0
+HUN,"Electricity, gas, and water supply",0
+HUN,Construction,0
+HUN,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+HUN,Mining and quarrying,0
+HUN,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+HUN,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+HUN,Hotels and restaurants,0
+HUN,Inland transport,1
+HUN,Water transport,0
+HUN,Air transport,1
+HUN,Other supporting and auxiliary transport activities; activities of travel agencies,1
+HUN,Post and telecommunications,0
+HUN,Financial intermediation,0
+HUN,Real estate activities,1
+HUN,"Food, beverages, and tobacco",1
+HUN,Renting of M&Eq and other business activities,0
+HUN,Public administration and defense; compulsory social security,0
+HUN,Education,1
+HUN,Health and social work,0
+HUN,"Other community, social, and personal services (creative industry)",1
+HUN,Private households with employed persons,0
+HUN,Textiles and textile products,0
+HUN,"Leather, leather products, and footwear",0
+HUN,Wood and products of wood and cork,0
+HUN,"Pulp, paper, paper products, printing, and publishing",1
+HUN,"Coke, refined petroleum, and nuclear fuel",0
+HUN,Chemicals and chemical products,0
+IND,"Agriculture, hunting, forestry, and fishing",1
+IND,Rubber and plastics,1
+IND,Other nonmetallic minerals,1
+IND,Basic metals and fabricated metal,1
+IND,"Machinery, nec",0
+IND,Electrical and optical equipment,0
+IND,Transport equipment,1
+IND,"Manufacturing, nec; recycling",1
+IND,"Electricity, gas, and water supply",0
+IND,Construction,1
+IND,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+IND,Mining and quarrying,0
+IND,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+IND,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+IND,Hotels and restaurants,0
+IND,Inland transport,1
+IND,Water transport,0
+IND,Air transport,0
+IND,Other supporting and auxiliary transport activities; activities of travel agencies,0
+IND,Post and telecommunications,0
+IND,Financial intermediation,0
+IND,Real estate activities,0
+IND,"Food, beverages, and tobacco",1
+IND,Renting of M&Eq and other business activities,0
+IND,Public administration and defense; compulsory social security,0
+IND,Education,1
+IND,Health and social work,0
+IND,"Other community, social, and personal services (creative industry)",0
+IND,Private households with employed persons,0
+IND,Textiles and textile products,1
+IND,"Leather, leather products, and footwear",0
+IND,Wood and products of wood and cork,0
+IND,"Pulp, paper, paper products, printing, and publishing",0
+IND,"Coke, refined petroleum, and nuclear fuel",1
+IND,Chemicals and chemical products,1
+INO,"Agriculture, hunting, forestry, and fishing",1
+INO,Rubber and plastics,0
+INO,Other nonmetallic minerals,0
+INO,Basic metals and fabricated metal,0
+INO,"Machinery, nec",0
+INO,Electrical and optical equipment,0
+INO,Transport equipment,0
+INO,"Manufacturing, nec; recycling",0
+INO,"Electricity, gas, and water supply",0
+INO,Construction,1
+INO,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+INO,Mining and quarrying,1
+INO,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+INO,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+INO,Hotels and restaurants,1
+INO,Inland transport,1
+INO,Water transport,1
+INO,Air transport,1
+INO,Other supporting and auxiliary transport activities; activities of travel agencies,0
+INO,Post and telecommunications,1
+INO,Financial intermediation,0
+INO,Real estate activities,0
+INO,"Food, beverages, and tobacco",1
+INO,Renting of M&Eq and other business activities,0
+INO,Public administration and defense; compulsory social security,0
+INO,Education,0
+INO,Health and social work,0
+INO,"Other community, social, and personal services (creative industry)",0
+INO,Private households with employed persons,0
+INO,Textiles and textile products,1
+INO,"Leather, leather products, and footwear",1
+INO,Wood and products of wood and cork,1
+INO,"Pulp, paper, paper products, printing, and publishing",0
+INO,"Coke, refined petroleum, and nuclear fuel",1
+INO,Chemicals and chemical products,0
+IRE,"Agriculture, hunting, forestry, and fishing",0
+IRE,Rubber and plastics,0
+IRE,Other nonmetallic minerals,0
+IRE,Basic metals and fabricated metal,0
+IRE,"Machinery, nec",0
+IRE,Electrical and optical equipment,0
+IRE,Transport equipment,0
+IRE,"Manufacturing, nec; recycling",1
+IRE,"Electricity, gas, and water supply",0
+IRE,Construction,0
+IRE,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+IRE,Mining and quarrying,0
+IRE,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+IRE,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+IRE,Hotels and restaurants,0
+IRE,Inland transport,0
+IRE,Water transport,0
+IRE,Air transport,1
+IRE,Other supporting and auxiliary transport activities; activities of travel agencies,0
+IRE,Post and telecommunications,0
+IRE,Financial intermediation,1
+IRE,Real estate activities,0
+IRE,"Food, beverages, and tobacco",0
+IRE,Renting of M&Eq and other business activities,1
+IRE,Public administration and defense; compulsory social security,0
+IRE,Education,0
+IRE,Health and social work,0
+IRE,"Other community, social, and personal services (creative industry)",0
+IRE,Private households with employed persons,0
+IRE,Textiles and textile products,0
+IRE,"Leather, leather products, and footwear",0
+IRE,Wood and products of wood and cork,0
+IRE,"Pulp, paper, paper products, printing, and publishing",1
+IRE,"Coke, refined petroleum, and nuclear fuel",1
+IRE,Chemicals and chemical products,1
+ITA,"Agriculture, hunting, forestry, and fishing",0
+ITA,Rubber and plastics,1
+ITA,Other nonmetallic minerals,0
+ITA,Basic metals and fabricated metal,1
+ITA,"Machinery, nec",1
+ITA,Electrical and optical equipment,0
+ITA,Transport equipment,0
+ITA,"Manufacturing, nec; recycling",1
+ITA,"Electricity, gas, and water supply",0
+ITA,Construction,0
+ITA,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+ITA,Mining and quarrying,0
+ITA,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+ITA,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+ITA,Hotels and restaurants,1
+ITA,Inland transport,1
+ITA,Water transport,0
+ITA,Air transport,0
+ITA,Other supporting and auxiliary transport activities; activities of travel agencies,1
+ITA,Post and telecommunications,0
+ITA,Financial intermediation,0
+ITA,Real estate activities,1
+ITA,"Food, beverages, and tobacco",1
+ITA,Renting of M&Eq and other business activities,1
+ITA,Public administration and defense; compulsory social security,0
+ITA,Education,0
+ITA,Health and social work,1
+ITA,"Other community, social, and personal services (creative industry)",1
+ITA,Private households with employed persons,1
+ITA,Textiles and textile products,1
+ITA,"Leather, leather products, and footwear",1
+ITA,Wood and products of wood and cork,1
+ITA,"Pulp, paper, paper products, printing, and publishing",1
+ITA,"Coke, refined petroleum, and nuclear fuel",0
+ITA,Chemicals and chemical products,0
+JPN,"Agriculture, hunting, forestry, and fishing",0
+JPN,Rubber and plastics,1
+JPN,Other nonmetallic minerals,0
+JPN,Basic metals and fabricated metal,1
+JPN,"Machinery, nec",1
+JPN,Electrical and optical equipment,1
+JPN,Transport equipment,1
+JPN,"Manufacturing, nec; recycling",0
+JPN,"Electricity, gas, and water supply",1
+JPN,Construction,0
+JPN,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+JPN,Mining and quarrying,0
+JPN,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+JPN,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+JPN,Hotels and restaurants,1
+JPN,Inland transport,1
+JPN,Water transport,0
+JPN,Air transport,0
+JPN,Other supporting and auxiliary transport activities; activities of travel agencies,0
+JPN,Post and telecommunications,1
+JPN,Financial intermediation,0
+JPN,Real estate activities,1
+JPN,"Food, beverages, and tobacco",0
+JPN,Renting of M&Eq and other business activities,0
+JPN,Public administration and defense; compulsory social security,0
+JPN,Education,0
+JPN,Health and social work,1
+JPN,"Other community, social, and personal services (creative industry)",1
+JPN,Private households with employed persons,1
+JPN,Textiles and textile products,0
+JPN,"Leather, leather products, and footwear",0
+JPN,Wood and products of wood and cork,0
+JPN,"Pulp, paper, paper products, printing, and publishing",1
+JPN,"Coke, refined petroleum, and nuclear fuel",0
+JPN,Chemicals and chemical products,0
+KAZ,"Agriculture, hunting, forestry, and fishing",1
+KAZ,Rubber and plastics,0
+KAZ,Other nonmetallic minerals,0
+KAZ,Basic metals and fabricated metal,1
+KAZ,"Machinery, nec",0
+KAZ,Electrical and optical equipment,0
+KAZ,Transport equipment,0
+KAZ,"Manufacturing, nec; recycling",0
+KAZ,"Electricity, gas, and water supply",0
+KAZ,Construction,0
+KAZ,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+KAZ,Mining and quarrying,1
+KAZ,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+KAZ,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+KAZ,Hotels and restaurants,0
+KAZ,Inland transport,1
+KAZ,Water transport,0
+KAZ,Air transport,0
+KAZ,Other supporting and auxiliary transport activities; activities of travel agencies,1
+KAZ,Post and telecommunications,0
+KAZ,Financial intermediation,0
+KAZ,Real estate activities,1
+KAZ,"Food, beverages, and tobacco",0
+KAZ,Renting of M&Eq and other business activities,0
+KAZ,Public administration and defense; compulsory social security,0
+KAZ,Education,1
+KAZ,Health and social work,0
+KAZ,"Other community, social, and personal services (creative industry)",1
+KAZ,Private households with employed persons,1
+KAZ,Textiles and textile products,0
+KAZ,"Leather, leather products, and footwear",0
+KAZ,Wood and products of wood and cork,0
+KAZ,"Pulp, paper, paper products, printing, and publishing",0
+KAZ,"Coke, refined petroleum, and nuclear fuel",0
+KAZ,Chemicals and chemical products,0
+KGZ,"Agriculture, hunting, forestry, and fishing",1
+KGZ,Rubber and plastics,0
+KGZ,Other nonmetallic minerals,1
+KGZ,Basic metals and fabricated metal,1
+KGZ,"Machinery, nec",0
+KGZ,Electrical and optical equipment,0
+KGZ,Transport equipment,0
+KGZ,"Manufacturing, nec; recycling",0
+KGZ,"Electricity, gas, and water supply",0
+KGZ,Construction,1
+KGZ,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+KGZ,Mining and quarrying,1
+KGZ,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+KGZ,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+KGZ,Hotels and restaurants,1
+KGZ,Inland transport,1
+KGZ,Water transport,0
+KGZ,Air transport,1
+KGZ,Other supporting and auxiliary transport activities; activities of travel agencies,0
+KGZ,Post and telecommunications,1
+KGZ,Financial intermediation,0
+KGZ,Real estate activities,0
+KGZ,"Food, beverages, and tobacco",1
+KGZ,Renting of M&Eq and other business activities,0
+KGZ,Public administration and defense; compulsory social security,0
+KGZ,Education,1
+KGZ,Health and social work,0
+KGZ,"Other community, social, and personal services (creative industry)",0
+KGZ,Private households with employed persons,0
+KGZ,Textiles and textile products,0
+KGZ,"Leather, leather products, and footwear",0
+KGZ,Wood and products of wood and cork,0
+KGZ,"Pulp, paper, paper products, printing, and publishing",0
+KGZ,"Coke, refined petroleum, and nuclear fuel",0
+KGZ,Chemicals and chemical products,0
+KOR,"Agriculture, hunting, forestry, and fishing",0
+KOR,Rubber and plastics,1
+KOR,Other nonmetallic minerals,0
+KOR,Basic metals and fabricated metal,1
+KOR,"Machinery, nec",1
+KOR,Electrical and optical equipment,1
+KOR,Transport equipment,1
+KOR,"Manufacturing, nec; recycling",0
+KOR,"Electricity, gas, and water supply",1
+KOR,Construction,0
+KOR,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+KOR,Mining and quarrying,0
+KOR,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+KOR,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+KOR,Hotels and restaurants,1
+KOR,Inland transport,0
+KOR,Water transport,1
+KOR,Air transport,0
+KOR,Other supporting and auxiliary transport activities; activities of travel agencies,0
+KOR,Post and telecommunications,0
+KOR,Financial intermediation,0
+KOR,Real estate activities,0
+KOR,"Food, beverages, and tobacco",0
+KOR,Renting of M&Eq and other business activities,0
+KOR,Public administration and defense; compulsory social security,0
+KOR,Education,1
+KOR,Health and social work,0
+KOR,"Other community, social, and personal services (creative industry)",1
+KOR,Private households with employed persons,0
+KOR,Textiles and textile products,1
+KOR,"Leather, leather products, and footwear",0
+KOR,Wood and products of wood and cork,0
+KOR,"Pulp, paper, paper products, printing, and publishing",1
+KOR,"Coke, refined petroleum, and nuclear fuel",1
+KOR,Chemicals and chemical products,1
+KUW,"Agriculture, hunting, forestry, and fishing",0
+KUW,Rubber and plastics,0
+KUW,Other nonmetallic minerals,0
+KUW,Basic metals and fabricated metal,0
+KUW,"Machinery, nec",0
+KUW,Electrical and optical equipment,0
+KUW,Transport equipment,0
+KUW,"Manufacturing, nec; recycling",0
+KUW,"Electricity, gas, and water supply",0
+KUW,Construction,0
+KUW,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+KUW,Mining and quarrying,1
+KUW,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+KUW,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+KUW,Hotels and restaurants,0
+KUW,Inland transport,0
+KUW,Water transport,0
+KUW,Air transport,0
+KUW,Other supporting and auxiliary transport activities; activities of travel agencies,1
+KUW,Post and telecommunications,1
+KUW,Financial intermediation,0
+KUW,Real estate activities,0
+KUW,"Food, beverages, and tobacco",0
+KUW,Renting of M&Eq and other business activities,0
+KUW,Public administration and defense; compulsory social security,1
+KUW,Education,1
+KUW,Health and social work,0
+KUW,"Other community, social, and personal services (creative industry)",0
+KUW,Private households with employed persons,1
+KUW,Textiles and textile products,0
+KUW,"Leather, leather products, and footwear",0
+KUW,Wood and products of wood and cork,0
+KUW,"Pulp, paper, paper products, printing, and publishing",0
+KUW,"Coke, refined petroleum, and nuclear fuel",1
+KUW,Chemicals and chemical products,1
+LAO,"Agriculture, hunting, forestry, and fishing",1
+LAO,Rubber and plastics,0
+LAO,Other nonmetallic minerals,1
+LAO,Basic metals and fabricated metal,0
+LAO,"Machinery, nec",0
+LAO,Electrical and optical equipment,0
+LAO,Transport equipment,0
+LAO,"Manufacturing, nec; recycling",1
+LAO,"Electricity, gas, and water supply",1
+LAO,Construction,1
+LAO,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+LAO,Mining and quarrying,0
+LAO,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+LAO,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+LAO,Hotels and restaurants,0
+LAO,Inland transport,0
+LAO,Water transport,0
+LAO,Air transport,0
+LAO,Other supporting and auxiliary transport activities; activities of travel agencies,0
+LAO,Post and telecommunications,0
+LAO,Financial intermediation,0
+LAO,Real estate activities,0
+LAO,"Food, beverages, and tobacco",1
+LAO,Renting of M&Eq and other business activities,0
+LAO,Public administration and defense; compulsory social security,1
+LAO,Education,0
+LAO,Health and social work,0
+LAO,"Other community, social, and personal services (creative industry)",0
+LAO,Private households with employed persons,0
+LAO,Textiles and textile products,1
+LAO,"Leather, leather products, and footwear",1
+LAO,Wood and products of wood and cork,1
+LAO,"Pulp, paper, paper products, printing, and publishing",1
+LAO,"Coke, refined petroleum, and nuclear fuel",0
+LAO,Chemicals and chemical products,0
+LTU,"Agriculture, hunting, forestry, and fishing",0
+LTU,Rubber and plastics,1
+LTU,Other nonmetallic minerals,0
+LTU,Basic metals and fabricated metal,0
+LTU,"Machinery, nec",0
+LTU,Electrical and optical equipment,0
+LTU,Transport equipment,0
+LTU,"Manufacturing, nec; recycling",1
+LTU,"Electricity, gas, and water supply",0
+LTU,Construction,0
+LTU,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+LTU,Mining and quarrying,0
+LTU,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+LTU,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+LTU,Hotels and restaurants,0
+LTU,Inland transport,1
+LTU,Water transport,0
+LTU,Air transport,0
+LTU,Other supporting and auxiliary transport activities; activities of travel agencies,1
+LTU,Post and telecommunications,0
+LTU,Financial intermediation,0
+LTU,Real estate activities,0
+LTU,"Food, beverages, and tobacco",1
+LTU,Renting of M&Eq and other business activities,1
+LTU,Public administration and defense; compulsory social security,0
+LTU,Education,1
+LTU,Health and social work,0
+LTU,"Other community, social, and personal services (creative industry)",0
+LTU,Private households with employed persons,0
+LTU,Textiles and textile products,0
+LTU,"Leather, leather products, and footwear",0
+LTU,Wood and products of wood and cork,1
+LTU,"Pulp, paper, paper products, printing, and publishing",1
+LTU,"Coke, refined petroleum, and nuclear fuel",1
+LTU,Chemicals and chemical products,0
+LUX,"Agriculture, hunting, forestry, and fishing",0
+LUX,Rubber and plastics,1
+LUX,Other nonmetallic minerals,1
+LUX,Basic metals and fabricated metal,0
+LUX,"Machinery, nec",0
+LUX,Electrical and optical equipment,0
+LUX,Transport equipment,0
+LUX,"Manufacturing, nec; recycling",0
+LUX,"Electricity, gas, and water supply",0
+LUX,Construction,0
+LUX,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+LUX,Mining and quarrying,0
+LUX,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+LUX,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+LUX,Hotels and restaurants,0
+LUX,Inland transport,0
+LUX,Water transport,0
+LUX,Air transport,0
+LUX,Other supporting and auxiliary transport activities; activities of travel agencies,0
+LUX,Post and telecommunications,0
+LUX,Financial intermediation,1
+LUX,Real estate activities,0
+LUX,"Food, beverages, and tobacco",0
+LUX,Renting of M&Eq and other business activities,1
+LUX,Public administration and defense; compulsory social security,0
+LUX,Education,0
+LUX,Health and social work,0
+LUX,"Other community, social, and personal services (creative industry)",0
+LUX,Private households with employed persons,0
+LUX,Textiles and textile products,0
+LUX,"Leather, leather products, and footwear",0
+LUX,Wood and products of wood and cork,0
+LUX,"Pulp, paper, paper products, printing, and publishing",0
+LUX,"Coke, refined petroleum, and nuclear fuel",0
+LUX,Chemicals and chemical products,0
+LVA,"Agriculture, hunting, forestry, and fishing",1
+LVA,Rubber and plastics,0
+LVA,Other nonmetallic minerals,0
+LVA,Basic metals and fabricated metal,0
+LVA,"Machinery, nec",0
+LVA,Electrical and optical equipment,0
+LVA,Transport equipment,0
+LVA,"Manufacturing, nec; recycling",0
+LVA,"Electricity, gas, and water supply",1
+LVA,Construction,1
+LVA,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+LVA,Mining and quarrying,0
+LVA,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+LVA,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+LVA,Hotels and restaurants,0
+LVA,Inland transport,1
+LVA,Water transport,0
+LVA,Air transport,1
+LVA,Other supporting and auxiliary transport activities; activities of travel agencies,1
+LVA,Post and telecommunications,0
+LVA,Financial intermediation,0
+LVA,Real estate activities,0
+LVA,"Food, beverages, and tobacco",1
+LVA,Renting of M&Eq and other business activities,1
+LVA,Public administration and defense; compulsory social security,0
+LVA,Education,1
+LVA,Health and social work,0
+LVA,"Other community, social, and personal services (creative industry)",1
+LVA,Private households with employed persons,0
+LVA,Textiles and textile products,0
+LVA,"Leather, leather products, and footwear",0
+LVA,Wood and products of wood and cork,1
+LVA,"Pulp, paper, paper products, printing, and publishing",0
+LVA,"Coke, refined petroleum, and nuclear fuel",0
+LVA,Chemicals and chemical products,0
+MAL,"Agriculture, hunting, forestry, and fishing",1
+MAL,Rubber and plastics,1
+MAL,Other nonmetallic minerals,0
+MAL,Basic metals and fabricated metal,0
+MAL,"Machinery, nec",0
+MAL,Electrical and optical equipment,1
+MAL,Transport equipment,0
+MAL,"Manufacturing, nec; recycling",0
+MAL,"Electricity, gas, and water supply",0
+MAL,Construction,0
+MAL,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+MAL,Mining and quarrying,1
+MAL,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+MAL,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+MAL,Hotels and restaurants,1
+MAL,Inland transport,0
+MAL,Water transport,1
+MAL,Air transport,0
+MAL,Other supporting and auxiliary transport activities; activities of travel agencies,1
+MAL,Post and telecommunications,1
+MAL,Financial intermediation,0
+MAL,Real estate activities,0
+MAL,"Food, beverages, and tobacco",1
+MAL,Renting of M&Eq and other business activities,0
+MAL,Public administration and defense; compulsory social security,0
+MAL,Education,0
+MAL,Health and social work,0
+MAL,"Other community, social, and personal services (creative industry)",0
+MAL,Private households with employed persons,0
+MAL,Textiles and textile products,0
+MAL,"Leather, leather products, and footwear",0
+MAL,Wood and products of wood and cork,1
+MAL,"Pulp, paper, paper products, printing, and publishing",1
+MAL,"Coke, refined petroleum, and nuclear fuel",1
+MAL,Chemicals and chemical products,1
+MEX,"Agriculture, hunting, forestry, and fishing",1
+MEX,Rubber and plastics,1
+MEX,Other nonmetallic minerals,0
+MEX,Basic metals and fabricated metal,0
+MEX,"Machinery, nec",0
+MEX,Electrical and optical equipment,1
+MEX,Transport equipment,1
+MEX,"Manufacturing, nec; recycling",1
+MEX,"Electricity, gas, and water supply",0
+MEX,Construction,1
+MEX,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+MEX,Mining and quarrying,1
+MEX,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+MEX,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+MEX,Hotels and restaurants,0
+MEX,Inland transport,1
+MEX,Water transport,0
+MEX,Air transport,1
+MEX,Other supporting and auxiliary transport activities; activities of travel agencies,0
+MEX,Post and telecommunications,0
+MEX,Financial intermediation,0
+MEX,Real estate activities,0
+MEX,"Food, beverages, and tobacco",1
+MEX,Renting of M&Eq and other business activities,0
+MEX,Public administration and defense; compulsory social security,0
+MEX,Education,1
+MEX,Health and social work,0
+MEX,"Other community, social, and personal services (creative industry)",0
+MEX,Private households with employed persons,1
+MEX,Textiles and textile products,0
+MEX,"Leather, leather products, and footwear",0
+MEX,Wood and products of wood and cork,0
+MEX,"Pulp, paper, paper products, printing, and publishing",0
+MEX,"Coke, refined petroleum, and nuclear fuel",0
+MEX,Chemicals and chemical products,0
+MLD,"Agriculture, hunting, forestry, and fishing",0
+MLD,Rubber and plastics,0
+MLD,Other nonmetallic minerals,0
+MLD,Basic metals and fabricated metal,0
+MLD,"Machinery, nec",0
+MLD,Electrical and optical equipment,0
+MLD,Transport equipment,0
+MLD,"Manufacturing, nec; recycling",0
+MLD,"Electricity, gas, and water supply",1
+MLD,Construction,1
+MLD,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+MLD,Mining and quarrying,0
+MLD,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+MLD,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+MLD,Hotels and restaurants,1
+MLD,Inland transport,0
+MLD,Water transport,1
+MLD,Air transport,1
+MLD,Other supporting and auxiliary transport activities; activities of travel agencies,1
+MLD,Post and telecommunications,1
+MLD,Financial intermediation,0
+MLD,Real estate activities,0
+MLD,"Food, beverages, and tobacco",0
+MLD,Renting of M&Eq and other business activities,0
+MLD,Public administration and defense; compulsory social security,1
+MLD,Education,1
+MLD,Health and social work,0
+MLD,"Other community, social, and personal services (creative industry)",0
+MLD,Private households with employed persons,0
+MLD,Textiles and textile products,0
+MLD,"Leather, leather products, and footwear",0
+MLD,Wood and products of wood and cork,0
+MLD,"Pulp, paper, paper products, printing, and publishing",0
+MLD,"Coke, refined petroleum, and nuclear fuel",0
+MLD,Chemicals and chemical products,0
+MLT,"Agriculture, hunting, forestry, and fishing",0
+MLT,Rubber and plastics,0
+MLT,Other nonmetallic minerals,0
+MLT,Basic metals and fabricated metal,0
+MLT,"Machinery, nec",0
+MLT,Electrical and optical equipment,0
+MLT,Transport equipment,0
+MLT,"Manufacturing, nec; recycling",0
+MLT,"Electricity, gas, and water supply",0
+MLT,Construction,0
+MLT,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+MLT,Mining and quarrying,0
+MLT,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+MLT,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+MLT,Hotels and restaurants,1
+MLT,Inland transport,0
+MLT,Water transport,1
+MLT,Air transport,1
+MLT,Other supporting and auxiliary transport activities; activities of travel agencies,1
+MLT,Post and telecommunications,0
+MLT,Financial intermediation,1
+MLT,Real estate activities,0
+MLT,"Food, beverages, and tobacco",0
+MLT,Renting of M&Eq and other business activities,1
+MLT,Public administration and defense; compulsory social security,0
+MLT,Education,1
+MLT,Health and social work,0
+MLT,"Other community, social, and personal services (creative industry)",1
+MLT,Private households with employed persons,0
+MLT,Textiles and textile products,0
+MLT,"Leather, leather products, and footwear",0
+MLT,Wood and products of wood and cork,0
+MLT,"Pulp, paper, paper products, printing, and publishing",1
+MLT,"Coke, refined petroleum, and nuclear fuel",0
+MLT,Chemicals and chemical products,0
+MON,"Agriculture, hunting, forestry, and fishing",1
+MON,Rubber and plastics,0
+MON,Other nonmetallic minerals,0
+MON,Basic metals and fabricated metal,0
+MON,"Machinery, nec",0
+MON,Electrical and optical equipment,0
+MON,Transport equipment,0
+MON,"Manufacturing, nec; recycling",0
+MON,"Electricity, gas, and water supply",1
+MON,Construction,0
+MON,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+MON,Mining and quarrying,1
+MON,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+MON,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+MON,Hotels and restaurants,0
+MON,Inland transport,1
+MON,Water transport,0
+MON,Air transport,1
+MON,Other supporting and auxiliary transport activities; activities of travel agencies,1
+MON,Post and telecommunications,0
+MON,Financial intermediation,0
+MON,Real estate activities,0
+MON,"Food, beverages, and tobacco",1
+MON,Renting of M&Eq and other business activities,0
+MON,Public administration and defense; compulsory social security,0
+MON,Education,1
+MON,Health and social work,0
+MON,"Other community, social, and personal services (creative industry)",0
+MON,Private households with employed persons,0
+MON,Textiles and textile products,0
+MON,"Leather, leather products, and footwear",0
+MON,Wood and products of wood and cork,0
+MON,"Pulp, paper, paper products, printing, and publishing",0
+MON,"Coke, refined petroleum, and nuclear fuel",0
+MON,Chemicals and chemical products,0
+NEP,"Agriculture, hunting, forestry, and fishing",1
+NEP,Rubber and plastics,0
+NEP,Other nonmetallic minerals,1
+NEP,Basic metals and fabricated metal,0
+NEP,"Machinery, nec",0
+NEP,Electrical and optical equipment,0
+NEP,Transport equipment,0
+NEP,"Manufacturing, nec; recycling",0
+NEP,"Electricity, gas, and water supply",1
+NEP,Construction,1
+NEP,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+NEP,Mining and quarrying,0
+NEP,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+NEP,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+NEP,Hotels and restaurants,1
+NEP,Inland transport,1
+NEP,Water transport,0
+NEP,Air transport,0
+NEP,Other supporting and auxiliary transport activities; activities of travel agencies,0
+NEP,Post and telecommunications,1
+NEP,Financial intermediation,0
+NEP,Real estate activities,1
+NEP,"Food, beverages, and tobacco",1
+NEP,Renting of M&Eq and other business activities,0
+NEP,Public administration and defense; compulsory social security,1
+NEP,Education,1
+NEP,Health and social work,0
+NEP,"Other community, social, and personal services (creative industry)",0
+NEP,Private households with employed persons,0
+NEP,Textiles and textile products,0
+NEP,"Leather, leather products, and footwear",0
+NEP,Wood and products of wood and cork,0
+NEP,"Pulp, paper, paper products, printing, and publishing",0
+NEP,"Coke, refined petroleum, and nuclear fuel",0
+NEP,Chemicals and chemical products,0
+NET,"Agriculture, hunting, forestry, and fishing",0
+NET,Rubber and plastics,0
+NET,Other nonmetallic minerals,0
+NET,Basic metals and fabricated metal,0
+NET,"Machinery, nec",1
+NET,Electrical and optical equipment,0
+NET,Transport equipment,0
+NET,"Manufacturing, nec; recycling",0
+NET,"Electricity, gas, and water supply",0
+NET,Construction,0
+NET,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+NET,Mining and quarrying,0
+NET,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+NET,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+NET,Hotels and restaurants,0
+NET,Inland transport,0
+NET,Water transport,1
+NET,Air transport,1
+NET,Other supporting and auxiliary transport activities; activities of travel agencies,1
+NET,Post and telecommunications,0
+NET,Financial intermediation,0
+NET,Real estate activities,0
+NET,"Food, beverages, and tobacco",1
+NET,Renting of M&Eq and other business activities,1
+NET,Public administration and defense; compulsory social security,0
+NET,Education,1
+NET,Health and social work,1
+NET,"Other community, social, and personal services (creative industry)",1
+NET,Private households with employed persons,0
+NET,Textiles and textile products,0
+NET,"Leather, leather products, and footwear",0
+NET,Wood and products of wood and cork,0
+NET,"Pulp, paper, paper products, printing, and publishing",0
+NET,"Coke, refined petroleum, and nuclear fuel",0
+NET,Chemicals and chemical products,1
+NOR,"Agriculture, hunting, forestry, and fishing",0
+NOR,Rubber and plastics,0
+NOR,Other nonmetallic minerals,0
+NOR,Basic metals and fabricated metal,0
+NOR,"Machinery, nec",0
+NOR,Electrical and optical equipment,0
+NOR,Transport equipment,0
+NOR,"Manufacturing, nec; recycling",0
+NOR,"Electricity, gas, and water supply",0
+NOR,Construction,1
+NOR,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+NOR,Mining and quarrying,1
+NOR,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+NOR,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+NOR,Hotels and restaurants,0
+NOR,Inland transport,1
+NOR,Water transport,1
+NOR,Air transport,0
+NOR,Other supporting and auxiliary transport activities; activities of travel agencies,1
+NOR,Post and telecommunications,0
+NOR,Financial intermediation,0
+NOR,Real estate activities,0
+NOR,"Food, beverages, and tobacco",1
+NOR,Renting of M&Eq and other business activities,0
+NOR,Public administration and defense; compulsory social security,1
+NOR,Education,1
+NOR,Health and social work,1
+NOR,"Other community, social, and personal services (creative industry)",1
+NOR,Private households with employed persons,0
+NOR,Textiles and textile products,0
+NOR,"Leather, leather products, and footwear",0
+NOR,Wood and products of wood and cork,0
+NOR,"Pulp, paper, paper products, printing, and publishing",1
+NOR,"Coke, refined petroleum, and nuclear fuel",0
+NOR,Chemicals and chemical products,0
+NZL,"Agriculture, hunting, forestry, and fishing",1
+NZL,Rubber and plastics,0
+NZL,Other nonmetallic minerals,0
+NZL,Basic metals and fabricated metal,0
+NZL,"Machinery, nec",0
+NZL,Electrical and optical equipment,0
+NZL,Transport equipment,0
+NZL,"Manufacturing, nec; recycling",0
+NZL,"Electricity, gas, and water supply",0
+NZL,Construction,1
+NZL,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+NZL,Mining and quarrying,0
+NZL,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+NZL,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+NZL,Hotels and restaurants,0
+NZL,Inland transport,0
+NZL,Water transport,0
+NZL,Air transport,1
+NZL,Other supporting and auxiliary transport activities; activities of travel agencies,1
+NZL,Post and telecommunications,1
+NZL,Financial intermediation,0
+NZL,Real estate activities,1
+NZL,"Food, beverages, and tobacco",1
+NZL,Renting of M&Eq and other business activities,1
+NZL,Public administration and defense; compulsory social security,0
+NZL,Education,1
+NZL,Health and social work,1
+NZL,"Other community, social, and personal services (creative industry)",1
+NZL,Private households with employed persons,0
+NZL,Textiles and textile products,0
+NZL,"Leather, leather products, and footwear",0
+NZL,Wood and products of wood and cork,1
+NZL,"Pulp, paper, paper products, printing, and publishing",1
+NZL,"Coke, refined petroleum, and nuclear fuel",0
+NZL,Chemicals and chemical products,0
+PAK,"Agriculture, hunting, forestry, and fishing",1
+PAK,Rubber and plastics,0
+PAK,Other nonmetallic minerals,1
+PAK,Basic metals and fabricated metal,0
+PAK,"Machinery, nec",0
+PAK,Electrical and optical equipment,0
+PAK,Transport equipment,0
+PAK,"Manufacturing, nec; recycling",0
+PAK,"Electricity, gas, and water supply",1
+PAK,Construction,0
+PAK,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+PAK,Mining and quarrying,0
+PAK,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+PAK,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+PAK,Hotels and restaurants,0
+PAK,Inland transport,1
+PAK,Water transport,0
+PAK,Air transport,1
+PAK,Other supporting and auxiliary transport activities; activities of travel agencies,0
+PAK,Post and telecommunications,0
+PAK,Financial intermediation,0
+PAK,Real estate activities,0
+PAK,"Food, beverages, and tobacco",1
+PAK,Renting of M&Eq and other business activities,0
+PAK,Public administration and defense; compulsory social security,0
+PAK,Education,0
+PAK,Health and social work,0
+PAK,"Other community, social, and personal services (creative industry)",1
+PAK,Private households with employed persons,0
+PAK,Textiles and textile products,1
+PAK,"Leather, leather products, and footwear",1
+PAK,Wood and products of wood and cork,0
+PAK,"Pulp, paper, paper products, printing, and publishing",1
+PAK,"Coke, refined petroleum, and nuclear fuel",0
+PAK,Chemicals and chemical products,0
+PHI,"Agriculture, hunting, forestry, and fishing",1
+PHI,Rubber and plastics,0
+PHI,Other nonmetallic minerals,0
+PHI,Basic metals and fabricated metal,0
+PHI,"Machinery, nec",0
+PHI,Electrical and optical equipment,0
+PHI,Transport equipment,0
+PHI,"Manufacturing, nec; recycling",0
+PHI,"Electricity, gas, and water supply",0
+PHI,Construction,1
+PHI,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+PHI,Mining and quarrying,0
+PHI,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+PHI,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+PHI,Hotels and restaurants,1
+PHI,Inland transport,1
+PHI,Water transport,0
+PHI,Air transport,1
+PHI,Other supporting and auxiliary transport activities; activities of travel agencies,0
+PHI,Post and telecommunications,1
+PHI,Financial intermediation,1
+PHI,Real estate activities,0
+PHI,"Food, beverages, and tobacco",1
+PHI,Renting of M&Eq and other business activities,0
+PHI,Public administration and defense; compulsory social security,0
+PHI,Education,1
+PHI,Health and social work,0
+PHI,"Other community, social, and personal services (creative industry)",0
+PHI,Private households with employed persons,0
+PHI,Textiles and textile products,0
+PHI,"Leather, leather products, and footwear",0
+PHI,Wood and products of wood and cork,0
+PHI,"Pulp, paper, paper products, printing, and publishing",0
+PHI,"Coke, refined petroleum, and nuclear fuel",0
+PHI,Chemicals and chemical products,0
+POL,"Agriculture, hunting, forestry, and fishing",0
+POL,Rubber and plastics,1
+POL,Other nonmetallic minerals,1
+POL,Basic metals and fabricated metal,1
+POL,"Machinery, nec",0
+POL,Electrical and optical equipment,0
+POL,Transport equipment,0
+POL,"Manufacturing, nec; recycling",1
+POL,"Electricity, gas, and water supply",0
+POL,Construction,1
+POL,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+POL,Mining and quarrying,0
+POL,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+POL,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+POL,Hotels and restaurants,0
+POL,Inland transport,1
+POL,Water transport,0
+POL,Air transport,0
+POL,Other supporting and auxiliary transport activities; activities of travel agencies,1
+POL,Post and telecommunications,1
+POL,Financial intermediation,0
+POL,Real estate activities,0
+POL,"Food, beverages, and tobacco",1
+POL,Renting of M&Eq and other business activities,0
+POL,Public administration and defense; compulsory social security,0
+POL,Education,1
+POL,Health and social work,0
+POL,"Other community, social, and personal services (creative industry)",0
+POL,Private households with employed persons,0
+POL,Textiles and textile products,0
+POL,"Leather, leather products, and footwear",0
+POL,Wood and products of wood and cork,1
+POL,"Pulp, paper, paper products, printing, and publishing",1
+POL,"Coke, refined petroleum, and nuclear fuel",1
+POL,Chemicals and chemical products,0
+POR,"Agriculture, hunting, forestry, and fishing",0
+POR,Rubber and plastics,1
+POR,Other nonmetallic minerals,1
+POR,Basic metals and fabricated metal,0
+POR,"Machinery, nec",0
+POR,Electrical and optical equipment,0
+POR,Transport equipment,1
+POR,"Manufacturing, nec; recycling",0
+POR,"Electricity, gas, and water supply",1
+POR,Construction,0
+POR,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+POR,Mining and quarrying,0
+POR,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+POR,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+POR,Hotels and restaurants,1
+POR,Inland transport,0
+POR,Water transport,0
+POR,Air transport,1
+POR,Other supporting and auxiliary transport activities; activities of travel agencies,1
+POR,Post and telecommunications,0
+POR,Financial intermediation,1
+POR,Real estate activities,1
+POR,"Food, beverages, and tobacco",1
+POR,Renting of M&Eq and other business activities,0
+POR,Public administration and defense; compulsory social security,0
+POR,Education,1
+POR,Health and social work,1
+POR,"Other community, social, and personal services (creative industry)",1
+POR,Private households with employed persons,1
+POR,Textiles and textile products,1
+POR,"Leather, leather products, and footwear",1
+POR,Wood and products of wood and cork,1
+POR,"Pulp, paper, paper products, printing, and publishing",1
+POR,"Coke, refined petroleum, and nuclear fuel",1
+POR,Chemicals and chemical products,0
+PRC,"Agriculture, hunting, forestry, and fishing",1
+PRC,Rubber and plastics,1
+PRC,Other nonmetallic minerals,1
+PRC,Basic metals and fabricated metal,1
+PRC,"Machinery, nec",1
+PRC,Electrical and optical equipment,1
+PRC,Transport equipment,1
+PRC,"Manufacturing, nec; recycling",1
+PRC,"Electricity, gas, and water supply",0
+PRC,Construction,1
+PRC,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+PRC,Mining and quarrying,0
+PRC,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+PRC,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+PRC,Hotels and restaurants,0
+PRC,Inland transport,0
+PRC,Water transport,0
+PRC,Air transport,0
+PRC,Other supporting and auxiliary transport activities; activities of travel agencies,0
+PRC,Post and telecommunications,1
+PRC,Financial intermediation,0
+PRC,Real estate activities,0
+PRC,"Food, beverages, and tobacco",1
+PRC,Renting of M&Eq and other business activities,0
+PRC,Public administration and defense; compulsory social security,0
+PRC,Education,1
+PRC,Health and social work,0
+PRC,"Other community, social, and personal services (creative industry)",0
+PRC,Private households with employed persons,0
+PRC,Textiles and textile products,1
+PRC,"Leather, leather products, and footwear",1
+PRC,Wood and products of wood and cork,1
+PRC,"Pulp, paper, paper products, printing, and publishing",1
+PRC,"Coke, refined petroleum, and nuclear fuel",0
+PRC,Chemicals and chemical products,1
+ROM,"Agriculture, hunting, forestry, and fishing",1
+ROM,Rubber and plastics,1
+ROM,Other nonmetallic minerals,0
+ROM,Basic metals and fabricated metal,0
+ROM,"Machinery, nec",0
+ROM,Electrical and optical equipment,0
+ROM,Transport equipment,1
+ROM,"Manufacturing, nec; recycling",0
+ROM,"Electricity, gas, and water supply",1
+ROM,Construction,1
+ROM,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+ROM,Mining and quarrying,0
+ROM,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+ROM,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+ROM,Hotels and restaurants,0
+ROM,Inland transport,1
+ROM,Water transport,0
+ROM,Air transport,0
+ROM,Other supporting and auxiliary transport activities; activities of travel agencies,1
+ROM,Post and telecommunications,0
+ROM,Financial intermediation,0
+ROM,Real estate activities,0
+ROM,"Food, beverages, and tobacco",1
+ROM,Renting of M&Eq and other business activities,1
+ROM,Public administration and defense; compulsory social security,0
+ROM,Education,0
+ROM,Health and social work,1
+ROM,"Other community, social, and personal services (creative industry)",1
+ROM,Private households with employed persons,0
+ROM,Textiles and textile products,0
+ROM,"Leather, leather products, and footwear",0
+ROM,Wood and products of wood and cork,1
+ROM,"Pulp, paper, paper products, printing, and publishing",0
+ROM,"Coke, refined petroleum, and nuclear fuel",0
+ROM,Chemicals and chemical products,0
+RUS,"Agriculture, hunting, forestry, and fishing",0
+RUS,Rubber and plastics,0
+RUS,Other nonmetallic minerals,0
+RUS,Basic metals and fabricated metal,1
+RUS,"Machinery, nec",0
+RUS,Electrical and optical equipment,0
+RUS,Transport equipment,0
+RUS,"Manufacturing, nec; recycling",0
+RUS,"Electricity, gas, and water supply",1
+RUS,Construction,0
+RUS,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+RUS,Mining and quarrying,1
+RUS,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+RUS,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+RUS,Hotels and restaurants,0
+RUS,Inland transport,1
+RUS,Water transport,0
+RUS,Air transport,1
+RUS,Other supporting and auxiliary transport activities; activities of travel agencies,1
+RUS,Post and telecommunications,0
+RUS,Financial intermediation,0
+RUS,Real estate activities,1
+RUS,"Food, beverages, and tobacco",1
+RUS,Renting of M&Eq and other business activities,0
+RUS,Public administration and defense; compulsory social security,1
+RUS,Education,0
+RUS,Health and social work,0
+RUS,"Other community, social, and personal services (creative industry)",0
+RUS,Private households with employed persons,1
+RUS,Textiles and textile products,0
+RUS,"Leather, leather products, and footwear",0
+RUS,Wood and products of wood and cork,0
+RUS,"Pulp, paper, paper products, printing, and publishing",0
+RUS,"Coke, refined petroleum, and nuclear fuel",1
+RUS,Chemicals and chemical products,0
+RoW,"Agriculture, hunting, forestry, and fishing",1
+RoW,Rubber and plastics,1
+RoW,Other nonmetallic minerals,1
+RoW,Basic metals and fabricated metal,1
+RoW,"Machinery, nec",0
+RoW,Electrical and optical equipment,0
+RoW,Transport equipment,0
+RoW,"Manufacturing, nec; recycling",0
+RoW,"Electricity, gas, and water supply",1
+RoW,Construction,1
+RoW,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+RoW,Mining and quarrying,1
+RoW,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+RoW,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+RoW,Hotels and restaurants,0
+RoW,Inland transport,1
+RoW,Water transport,1
+RoW,Air transport,0
+RoW,Other supporting and auxiliary transport activities; activities of travel agencies,0
+RoW,Post and telecommunications,0
+RoW,Financial intermediation,0
+RoW,Real estate activities,0
+RoW,"Food, beverages, and tobacco",0
+RoW,Renting of M&Eq and other business activities,0
+RoW,Public administration and defense; compulsory social security,0
+RoW,Education,1
+RoW,Health and social work,0
+RoW,"Other community, social, and personal services (creative industry)",0
+RoW,Private households with employed persons,0
+RoW,Textiles and textile products,1
+RoW,"Leather, leather products, and footwear",1
+RoW,Wood and products of wood and cork,1
+RoW,"Pulp, paper, paper products, printing, and publishing",0
+RoW,"Coke, refined petroleum, and nuclear fuel",1
+RoW,Chemicals and chemical products,1
+SAU,"Agriculture, hunting, forestry, and fishing",0
+SAU,Rubber and plastics,0
+SAU,Other nonmetallic minerals,0
+SAU,Basic metals and fabricated metal,0
+SAU,"Machinery, nec",0
+SAU,Electrical and optical equipment,0
+SAU,Transport equipment,0
+SAU,"Manufacturing, nec; recycling",0
+SAU,"Electricity, gas, and water supply",0
+SAU,Construction,1
+SAU,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+SAU,Mining and quarrying,1
+SAU,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+SAU,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+SAU,Hotels and restaurants,0
+SAU,Inland transport,0
+SAU,Water transport,0
+SAU,Air transport,0
+SAU,Other supporting and auxiliary transport activities; activities of travel agencies,0
+SAU,Post and telecommunications,1
+SAU,Financial intermediation,0
+SAU,Real estate activities,0
+SAU,"Food, beverages, and tobacco",0
+SAU,Renting of M&Eq and other business activities,0
+SAU,Public administration and defense; compulsory social security,1
+SAU,Education,1
+SAU,Health and social work,0
+SAU,"Other community, social, and personal services (creative industry)",0
+SAU,Private households with employed persons,1
+SAU,Textiles and textile products,0
+SAU,"Leather, leather products, and footwear",0
+SAU,Wood and products of wood and cork,0
+SAU,"Pulp, paper, paper products, printing, and publishing",0
+SAU,"Coke, refined petroleum, and nuclear fuel",1
+SAU,Chemicals and chemical products,1
+SIN,"Agriculture, hunting, forestry, and fishing",0
+SIN,Rubber and plastics,0
+SIN,Other nonmetallic minerals,0
+SIN,Basic metals and fabricated metal,0
+SIN,"Machinery, nec",0
+SIN,Electrical and optical equipment,1
+SIN,Transport equipment,0
+SIN,"Manufacturing, nec; recycling",0
+SIN,"Electricity, gas, and water supply",0
+SIN,Construction,0
+SIN,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+SIN,Mining and quarrying,0
+SIN,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+SIN,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+SIN,Hotels and restaurants,0
+SIN,Inland transport,0
+SIN,Water transport,1
+SIN,Air transport,0
+SIN,Other supporting and auxiliary transport activities; activities of travel agencies,1
+SIN,Post and telecommunications,0
+SIN,Financial intermediation,1
+SIN,Real estate activities,0
+SIN,"Food, beverages, and tobacco",0
+SIN,Renting of M&Eq and other business activities,1
+SIN,Public administration and defense; compulsory social security,0
+SIN,Education,0
+SIN,Health and social work,0
+SIN,"Other community, social, and personal services (creative industry)",0
+SIN,Private households with employed persons,1
+SIN,Textiles and textile products,0
+SIN,"Leather, leather products, and footwear",0
+SIN,Wood and products of wood and cork,0
+SIN,"Pulp, paper, paper products, printing, and publishing",0
+SIN,"Coke, refined petroleum, and nuclear fuel",1
+SIN,Chemicals and chemical products,0
+SPA,"Agriculture, hunting, forestry, and fishing",0
+SPA,Rubber and plastics,0
+SPA,Other nonmetallic minerals,0
+SPA,Basic metals and fabricated metal,0
+SPA,"Machinery, nec",0
+SPA,Electrical and optical equipment,0
+SPA,Transport equipment,0
+SPA,"Manufacturing, nec; recycling",0
+SPA,"Electricity, gas, and water supply",0
+SPA,Construction,0
+SPA,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+SPA,Mining and quarrying,0
+SPA,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+SPA,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+SPA,Hotels and restaurants,1
+SPA,Inland transport,1
+SPA,Water transport,0
+SPA,Air transport,1
+SPA,Other supporting and auxiliary transport activities; activities of travel agencies,1
+SPA,Post and telecommunications,0
+SPA,Financial intermediation,0
+SPA,Real estate activities,1
+SPA,"Food, beverages, and tobacco",1
+SPA,Renting of M&Eq and other business activities,0
+SPA,Public administration and defense; compulsory social security,0
+SPA,Education,1
+SPA,Health and social work,1
+SPA,"Other community, social, and personal services (creative industry)",1
+SPA,Private households with employed persons,1
+SPA,Textiles and textile products,0
+SPA,"Leather, leather products, and footwear",0
+SPA,Wood and products of wood and cork,0
+SPA,"Pulp, paper, paper products, printing, and publishing",1
+SPA,"Coke, refined petroleum, and nuclear fuel",1
+SPA,Chemicals and chemical products,0
+SRI,"Agriculture, hunting, forestry, and fishing",1
+SRI,Rubber and plastics,0
+SRI,Other nonmetallic minerals,1
+SRI,Basic metals and fabricated metal,0
+SRI,"Machinery, nec",0
+SRI,Electrical and optical equipment,0
+SRI,Transport equipment,0
+SRI,"Manufacturing, nec; recycling",1
+SRI,"Electricity, gas, and water supply",0
+SRI,Construction,0
+SRI,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+SRI,Mining and quarrying,0
+SRI,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+SRI,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+SRI,Hotels and restaurants,0
+SRI,Inland transport,1
+SRI,Water transport,0
+SRI,Air transport,1
+SRI,Other supporting and auxiliary transport activities; activities of travel agencies,0
+SRI,Post and telecommunications,0
+SRI,Financial intermediation,1
+SRI,Real estate activities,0
+SRI,"Food, beverages, and tobacco",1
+SRI,Renting of M&Eq and other business activities,0
+SRI,Public administration and defense; compulsory social security,0
+SRI,Education,0
+SRI,Health and social work,0
+SRI,"Other community, social, and personal services (creative industry)",1
+SRI,Private households with employed persons,0
+SRI,Textiles and textile products,1
+SRI,"Leather, leather products, and footwear",0
+SRI,Wood and products of wood and cork,0
+SRI,"Pulp, paper, paper products, printing, and publishing",0
+SRI,"Coke, refined petroleum, and nuclear fuel",0
+SRI,Chemicals and chemical products,0
+SVK,"Agriculture, hunting, forestry, and fishing",0
+SVK,Rubber and plastics,1
+SVK,Other nonmetallic minerals,0
+SVK,Basic metals and fabricated metal,1
+SVK,"Machinery, nec",1
+SVK,Electrical and optical equipment,0
+SVK,Transport equipment,1
+SVK,"Manufacturing, nec; recycling",0
+SVK,"Electricity, gas, and water supply",1
+SVK,Construction,1
+SVK,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+SVK,Mining and quarrying,0
+SVK,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+SVK,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+SVK,Hotels and restaurants,0
+SVK,Inland transport,1
+SVK,Water transport,0
+SVK,Air transport,0
+SVK,Other supporting and auxiliary transport activities; activities of travel agencies,1
+SVK,Post and telecommunications,0
+SVK,Financial intermediation,0
+SVK,Real estate activities,1
+SVK,"Food, beverages, and tobacco",0
+SVK,Renting of M&Eq and other business activities,1
+SVK,Public administration and defense; compulsory social security,0
+SVK,Education,0
+SVK,Health and social work,0
+SVK,"Other community, social, and personal services (creative industry)",1
+SVK,Private households with employed persons,0
+SVK,Textiles and textile products,0
+SVK,"Leather, leather products, and footwear",0
+SVK,Wood and products of wood and cork,1
+SVK,"Pulp, paper, paper products, printing, and publishing",1
+SVK,"Coke, refined petroleum, and nuclear fuel",1
+SVK,Chemicals and chemical products,0
+SVN,"Agriculture, hunting, forestry, and fishing",0
+SVN,Rubber and plastics,1
+SVN,Other nonmetallic minerals,0
+SVN,Basic metals and fabricated metal,1
+SVN,"Machinery, nec",1
+SVN,Electrical and optical equipment,1
+SVN,Transport equipment,0
+SVN,"Manufacturing, nec; recycling",1
+SVN,"Electricity, gas, and water supply",0
+SVN,Construction,1
+SVN,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+SVN,Mining and quarrying,0
+SVN,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+SVN,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+SVN,Hotels and restaurants,0
+SVN,Inland transport,1
+SVN,Water transport,0
+SVN,Air transport,0
+SVN,Other supporting and auxiliary transport activities; activities of travel agencies,1
+SVN,Post and telecommunications,0
+SVN,Financial intermediation,0
+SVN,Real estate activities,0
+SVN,"Food, beverages, and tobacco",0
+SVN,Renting of M&Eq and other business activities,1
+SVN,Public administration and defense; compulsory social security,0
+SVN,Education,1
+SVN,Health and social work,0
+SVN,"Other community, social, and personal services (creative industry)",1
+SVN,Private households with employed persons,0
+SVN,Textiles and textile products,0
+SVN,"Leather, leather products, and footwear",0
+SVN,Wood and products of wood and cork,1
+SVN,"Pulp, paper, paper products, printing, and publishing",1
+SVN,"Coke, refined petroleum, and nuclear fuel",0
+SVN,Chemicals and chemical products,1
+SWE,"Agriculture, hunting, forestry, and fishing",0
+SWE,Rubber and plastics,0
+SWE,Other nonmetallic minerals,0
+SWE,Basic metals and fabricated metal,0
+SWE,"Machinery, nec",1
+SWE,Electrical and optical equipment,0
+SWE,Transport equipment,1
+SWE,"Manufacturing, nec; recycling",0
+SWE,"Electricity, gas, and water supply",0
+SWE,Construction,0
+SWE,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+SWE,Mining and quarrying,0
+SWE,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+SWE,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+SWE,Hotels and restaurants,0
+SWE,Inland transport,0
+SWE,Water transport,0
+SWE,Air transport,0
+SWE,Other supporting and auxiliary transport activities; activities of travel agencies,1
+SWE,Post and telecommunications,0
+SWE,Financial intermediation,0
+SWE,Real estate activities,1
+SWE,"Food, beverages, and tobacco",0
+SWE,Renting of M&Eq and other business activities,1
+SWE,Public administration and defense; compulsory social security,0
+SWE,Education,1
+SWE,Health and social work,1
+SWE,"Other community, social, and personal services (creative industry)",1
+SWE,Private households with employed persons,0
+SWE,Textiles and textile products,0
+SWE,"Leather, leather products, and footwear",0
+SWE,Wood and products of wood and cork,1
+SWE,"Pulp, paper, paper products, printing, and publishing",1
+SWE,"Coke, refined petroleum, and nuclear fuel",1
+SWE,Chemicals and chemical products,1
+SWI,"Agriculture, hunting, forestry, and fishing",0
+SWI,Rubber and plastics,0
+SWI,Other nonmetallic minerals,0
+SWI,Basic metals and fabricated metal,0
+SWI,"Machinery, nec",0
+SWI,Electrical and optical equipment,1
+SWI,Transport equipment,0
+SWI,"Manufacturing, nec; recycling",0
+SWI,"Electricity, gas, and water supply",1
+SWI,Construction,0
+SWI,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+SWI,Mining and quarrying,0
+SWI,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+SWI,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+SWI,Hotels and restaurants,0
+SWI,Inland transport,0
+SWI,Water transport,0
+SWI,Air transport,0
+SWI,Other supporting and auxiliary transport activities; activities of travel agencies,1
+SWI,Post and telecommunications,0
+SWI,Financial intermediation,1
+SWI,Real estate activities,0
+SWI,"Food, beverages, and tobacco",0
+SWI,Renting of M&Eq and other business activities,1
+SWI,Public administration and defense; compulsory social security,1
+SWI,Education,0
+SWI,Health and social work,1
+SWI,"Other community, social, and personal services (creative industry)",1
+SWI,Private households with employed persons,1
+SWI,Textiles and textile products,0
+SWI,"Leather, leather products, and footwear",0
+SWI,Wood and products of wood and cork,1
+SWI,"Pulp, paper, paper products, printing, and publishing",0
+SWI,"Coke, refined petroleum, and nuclear fuel",0
+SWI,Chemicals and chemical products,1
+TAJ,"Agriculture, hunting, forestry, and fishing",1
+TAJ,Rubber and plastics,0
+TAJ,Other nonmetallic minerals,1
+TAJ,Basic metals and fabricated metal,1
+TAJ,"Machinery, nec",0
+TAJ,Electrical and optical equipment,0
+TAJ,Transport equipment,0
+TAJ,"Manufacturing, nec; recycling",0
+TAJ,"Electricity, gas, and water supply",0
+TAJ,Construction,1
+TAJ,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+TAJ,Mining and quarrying,1
+TAJ,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+TAJ,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+TAJ,Hotels and restaurants,1
+TAJ,Inland transport,1
+TAJ,Water transport,0
+TAJ,Air transport,1
+TAJ,Other supporting and auxiliary transport activities; activities of travel agencies,0
+TAJ,Post and telecommunications,1
+TAJ,Financial intermediation,0
+TAJ,Real estate activities,0
+TAJ,"Food, beverages, and tobacco",1
+TAJ,Renting of M&Eq and other business activities,0
+TAJ,Public administration and defense; compulsory social security,0
+TAJ,Education,1
+TAJ,Health and social work,0
+TAJ,"Other community, social, and personal services (creative industry)",0
+TAJ,Private households with employed persons,1
+TAJ,Textiles and textile products,1
+TAJ,"Leather, leather products, and footwear",0
+TAJ,Wood and products of wood and cork,0
+TAJ,"Pulp, paper, paper products, printing, and publishing",0
+TAJ,"Coke, refined petroleum, and nuclear fuel",0
+TAJ,Chemicals and chemical products,0
+TAP,"Agriculture, hunting, forestry, and fishing",0
+TAP,Rubber and plastics,1
+TAP,Other nonmetallic minerals,0
+TAP,Basic metals and fabricated metal,1
+TAP,"Machinery, nec",1
+TAP,Electrical and optical equipment,1
+TAP,Transport equipment,0
+TAP,"Manufacturing, nec; recycling",0
+TAP,"Electricity, gas, and water supply",0
+TAP,Construction,0
+TAP,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+TAP,Mining and quarrying,0
+TAP,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+TAP,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+TAP,Hotels and restaurants,1
+TAP,Inland transport,0
+TAP,Water transport,1
+TAP,Air transport,1
+TAP,Other supporting and auxiliary transport activities; activities of travel agencies,0
+TAP,Post and telecommunications,0
+TAP,Financial intermediation,0
+TAP,Real estate activities,0
+TAP,"Food, beverages, and tobacco",0
+TAP,Renting of M&Eq and other business activities,0
+TAP,Public administration and defense; compulsory social security,0
+TAP,Education,0
+TAP,Health and social work,0
+TAP,"Other community, social, and personal services (creative industry)",0
+TAP,Private households with employed persons,1
+TAP,Textiles and textile products,0
+TAP,"Leather, leather products, and footwear",0
+TAP,Wood and products of wood and cork,0
+TAP,"Pulp, paper, paper products, printing, and publishing",0
+TAP,"Coke, refined petroleum, and nuclear fuel",1
+TAP,Chemicals and chemical products,1
+THA,"Agriculture, hunting, forestry, and fishing",1
+THA,Rubber and plastics,1
+THA,Other nonmetallic minerals,1
+THA,Basic metals and fabricated metal,1
+THA,"Machinery, nec",0
+THA,Electrical and optical equipment,0
+THA,Transport equipment,1
+THA,"Manufacturing, nec; recycling",1
+THA,"Electricity, gas, and water supply",1
+THA,Construction,0
+THA,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+THA,Mining and quarrying,0
+THA,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+THA,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+THA,Hotels and restaurants,1
+THA,Inland transport,0
+THA,Water transport,0
+THA,Air transport,0
+THA,Other supporting and auxiliary transport activities; activities of travel agencies,0
+THA,Post and telecommunications,0
+THA,Financial intermediation,0
+THA,Real estate activities,0
+THA,"Food, beverages, and tobacco",1
+THA,Renting of M&Eq and other business activities,0
+THA,Public administration and defense; compulsory social security,0
+THA,Education,1
+THA,Health and social work,0
+THA,"Other community, social, and personal services (creative industry)",0
+THA,Private households with employed persons,0
+THA,Textiles and textile products,0
+THA,"Leather, leather products, and footwear",1
+THA,Wood and products of wood and cork,0
+THA,"Pulp, paper, paper products, printing, and publishing",0
+THA,"Coke, refined petroleum, and nuclear fuel",1
+THA,Chemicals and chemical products,0
+TUR,"Agriculture, hunting, forestry, and fishing",1
+TUR,Rubber and plastics,1
+TUR,Other nonmetallic minerals,1
+TUR,Basic metals and fabricated metal,1
+TUR,"Machinery, nec",1
+TUR,Electrical and optical equipment,0
+TUR,Transport equipment,1
+TUR,"Manufacturing, nec; recycling",1
+TUR,"Electricity, gas, and water supply",1
+TUR,Construction,1
+TUR,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+TUR,Mining and quarrying,0
+TUR,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+TUR,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+TUR,Hotels and restaurants,1
+TUR,Inland transport,1
+TUR,Water transport,1
+TUR,Air transport,1
+TUR,Other supporting and auxiliary transport activities; activities of travel agencies,1
+TUR,Post and telecommunications,0
+TUR,Financial intermediation,0
+TUR,Real estate activities,0
+TUR,"Food, beverages, and tobacco",1
+TUR,Renting of M&Eq and other business activities,0
+TUR,Public administration and defense; compulsory social security,0
+TUR,Education,1
+TUR,Health and social work,0
+TUR,"Other community, social, and personal services (creative industry)",0
+TUR,Private households with employed persons,0
+TUR,Textiles and textile products,1
+TUR,"Leather, leather products, and footwear",0
+TUR,Wood and products of wood and cork,0
+TUR,"Pulp, paper, paper products, printing, and publishing",1
+TUR,"Coke, refined petroleum, and nuclear fuel",0
+TUR,Chemicals and chemical products,0
+UAE,"Agriculture, hunting, forestry, and fishing",0
+UAE,Rubber and plastics,0
+UAE,Other nonmetallic minerals,1
+UAE,Basic metals and fabricated metal,1
+UAE,"Machinery, nec",0
+UAE,Electrical and optical equipment,0
+UAE,Transport equipment,0
+UAE,"Manufacturing, nec; recycling",0
+UAE,"Electricity, gas, and water supply",1
+UAE,Construction,1
+UAE,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+UAE,Mining and quarrying,1
+UAE,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+UAE,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+UAE,Hotels and restaurants,1
+UAE,Inland transport,0
+UAE,Water transport,0
+UAE,Air transport,1
+UAE,Other supporting and auxiliary transport activities; activities of travel agencies,0
+UAE,Post and telecommunications,0
+UAE,Financial intermediation,1
+UAE,Real estate activities,0
+UAE,"Food, beverages, and tobacco",0
+UAE,Renting of M&Eq and other business activities,0
+UAE,Public administration and defense; compulsory social security,0
+UAE,Education,0
+UAE,Health and social work,0
+UAE,"Other community, social, and personal services (creative industry)",0
+UAE,Private households with employed persons,1
+UAE,Textiles and textile products,0
+UAE,"Leather, leather products, and footwear",0
+UAE,Wood and products of wood and cork,0
+UAE,"Pulp, paper, paper products, printing, and publishing",0
+UAE,"Coke, refined petroleum, and nuclear fuel",1
+UAE,Chemicals and chemical products,0
+UKG,"Agriculture, hunting, forestry, and fishing",0
+UKG,Rubber and plastics,0
+UKG,Other nonmetallic minerals,0
+UKG,Basic metals and fabricated metal,0
+UKG,"Machinery, nec",0
+UKG,Electrical and optical equipment,0
+UKG,Transport equipment,0
+UKG,"Manufacturing, nec; recycling",0
+UKG,"Electricity, gas, and water supply",1
+UKG,Construction,1
+UKG,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+UKG,Mining and quarrying,0
+UKG,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+UKG,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+UKG,Hotels and restaurants,1
+UKG,Inland transport,0
+UKG,Water transport,0
+UKG,Air transport,0
+UKG,Other supporting and auxiliary transport activities; activities of travel agencies,1
+UKG,Post and telecommunications,1
+UKG,Financial intermediation,1
+UKG,Real estate activities,1
+UKG,"Food, beverages, and tobacco",0
+UKG,Renting of M&Eq and other business activities,1
+UKG,Public administration and defense; compulsory social security,0
+UKG,Education,1
+UKG,Health and social work,1
+UKG,"Other community, social, and personal services (creative industry)",1
+UKG,Private households with employed persons,0
+UKG,Textiles and textile products,0
+UKG,"Leather, leather products, and footwear",0
+UKG,Wood and products of wood and cork,0
+UKG,"Pulp, paper, paper products, printing, and publishing",0
+UKG,"Coke, refined petroleum, and nuclear fuel",0
+UKG,Chemicals and chemical products,0
+USA,"Agriculture, hunting, forestry, and fishing",0
+USA,Rubber and plastics,0
+USA,Other nonmetallic minerals,0
+USA,Basic metals and fabricated metal,0
+USA,"Machinery, nec",0
+USA,Electrical and optical equipment,0
+USA,Transport equipment,0
+USA,"Manufacturing, nec; recycling",0
+USA,"Electricity, gas, and water supply",0
+USA,Construction,0
+USA,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",1
+USA,Mining and quarrying,0
+USA,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",1
+USA,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+USA,Hotels and restaurants,1
+USA,Inland transport,0
+USA,Water transport,0
+USA,Air transport,1
+USA,Other supporting and auxiliary transport activities; activities of travel agencies,0
+USA,Post and telecommunications,0
+USA,Financial intermediation,1
+USA,Real estate activities,1
+USA,"Food, beverages, and tobacco",0
+USA,Renting of M&Eq and other business activities,1
+USA,Public administration and defense; compulsory social security,1
+USA,Education,0
+USA,Health and social work,1
+USA,"Other community, social, and personal services (creative industry)",1
+USA,Private households with employed persons,0
+USA,Textiles and textile products,0
+USA,"Leather, leather products, and footwear",0
+USA,Wood and products of wood and cork,0
+USA,"Pulp, paper, paper products, printing, and publishing",0
+USA,"Coke, refined petroleum, and nuclear fuel",0
+USA,Chemicals and chemical products,0
+UZB,"Agriculture, hunting, forestry, and fishing",1
+UZB,Rubber and plastics,0
+UZB,Other nonmetallic minerals,1
+UZB,Basic metals and fabricated metal,1
+UZB,"Machinery, nec",0
+UZB,Electrical and optical equipment,0
+UZB,Transport equipment,1
+UZB,"Manufacturing, nec; recycling",0
+UZB,"Electricity, gas, and water supply",0
+UZB,Construction,1
+UZB,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+UZB,Mining and quarrying,0
+UZB,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+UZB,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",1
+UZB,Hotels and restaurants,1
+UZB,Inland transport,1
+UZB,Water transport,0
+UZB,Air transport,1
+UZB,Other supporting and auxiliary transport activities; activities of travel agencies,0
+UZB,Post and telecommunications,0
+UZB,Financial intermediation,0
+UZB,Real estate activities,0
+UZB,"Food, beverages, and tobacco",1
+UZB,Renting of M&Eq and other business activities,0
+UZB,Public administration and defense; compulsory social security,0
+UZB,Education,1
+UZB,Health and social work,0
+UZB,"Other community, social, and personal services (creative industry)",0
+UZB,Private households with employed persons,0
+UZB,Textiles and textile products,1
+UZB,"Leather, leather products, and footwear",0
+UZB,Wood and products of wood and cork,0
+UZB,"Pulp, paper, paper products, printing, and publishing",0
+UZB,"Coke, refined petroleum, and nuclear fuel",0
+UZB,Chemicals and chemical products,0
+VIE,"Agriculture, hunting, forestry, and fishing",1
+VIE,Rubber and plastics,1
+VIE,Other nonmetallic minerals,1
+VIE,Basic metals and fabricated metal,1
+VIE,"Machinery, nec",0
+VIE,Electrical and optical equipment,1
+VIE,Transport equipment,0
+VIE,"Manufacturing, nec; recycling",1
+VIE,"Electricity, gas, and water supply",0
+VIE,Construction,1
+VIE,"Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",0
+VIE,Mining and quarrying,0
+VIE,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",0
+VIE,"Retail trade, except of motor vehicles and motorcycles; repair of household goods",0
+VIE,Hotels and restaurants,0
+VIE,Inland transport,0
+VIE,Water transport,0
+VIE,Air transport,0
+VIE,Other supporting and auxiliary transport activities; activities of travel agencies,1
+VIE,Post and telecommunications,1
+VIE,Financial intermediation,0
+VIE,Real estate activities,0
+VIE,"Food, beverages, and tobacco",1
+VIE,Renting of M&Eq and other business activities,0
+VIE,Public administration and defense; compulsory social security,0
+VIE,Education,0
+VIE,Health and social work,0
+VIE,"Other community, social, and personal services (creative industry)",0
+VIE,Private households with employed persons,0
+VIE,Textiles and textile products,1
+VIE,"Leather, leather products, and footwear",1
+VIE,Wood and products of wood and cork,1
+VIE,"Pulp, paper, paper products, printing, and publishing",1
+VIE,"Coke, refined petroleum, and nuclear fuel",0
+VIE,Chemicals and chemical products,0
