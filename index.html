@@ -265,7 +265,7 @@
       if (d.group != null) rows.push(["Group", d.group]);
       if (d.total_country_prod != null) rows.push(["Production in mln$", formatNum(d.total_country_prod)]);
       if (d.eci != null) rows.push(["Economic complexity", formatECI(d.eci)]);
-      if (d.eci != null) rows.push(["Economic complexity", formatECI(nodeSize (d) )]);
+ 
       if (selectedIndustry) {
         const key = `${(d.id || "").toString().trim()}|${selectedIndustry}`;
         const v = mcpMap.get(key);
